@@ -1,5 +1,4 @@
 import os
-from api_keys import OPENAI_API_KEY
 import streamlit as st
 from memory_module import cast_memory, story_memory
 from chains_module import cast_chain, arc_chain, quest_chain, act_chain, story_chain
