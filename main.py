@@ -4,7 +4,7 @@ import streamlit as st
 from memory_module import cast_memory, story_memory
 from chains_module import cast_chain, arc_chain, quest_chain, act_chain, story_chain
 
-os.environ['OPENAI_API_KEY'] = OPENAI_API_KEY
+os.environ['OPENAI_API_KEY'] = st.secrets
 
 # App Structure
 st.title('Visual_Novel_StoryGen')
