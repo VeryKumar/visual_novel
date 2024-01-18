@@ -1,0 +1,207 @@
+{
+  "objectives": [
+    {
+      "arc": "The Awakening",
+      "objectives": [
+        {
+          "title": "Arrival at the Chateau",
+          "objectives": [
+            "Establish the setting and mood of the chateau as a place of wonder and potential.",
+            "Introduce each artist, highlighting their excitement and trepidation upon arrival.",
+            "Set the stage for the upcoming journey with a sense of mystery and anticipation."
+          ]
+        },
+        {
+          "title": "The Artists' Gathering",
+          "objectives": [
+            "Create opportunities for artists to express their artistic backgrounds and current creative status.",
+            "Foster initial connections and potential rivalries among the artists.",
+            "Lay the groundwork for the communal and individual paths of artistic exploration."
+          ]
+        },
+        {
+          "title": "The Commitment Ceremony",
+          "objectives": [
+            "Deepen the artists' sense of purpose and resolve for their creative quest.",
+            "Evoke a sense of solemnity and significance surrounding the artistic journey ahead.",
+            "Cement the artists' dedication to their craft and the challenges that lie ahead."
+          ]
+        }
+      ]
+    },
+    {
+      "arc": "The Challenge",
+      "objectives": [
+        {
+          "title": "Formation of Alliances",
+          "objectives": [
+            "Showcase the formation of teams and the emergence of group dynamics.",
+            "Highlight the strengths and weaknesses that each artist brings to their alliance.",
+            "Set the stage for collaboration and potential conflict within and between groups."
+          ]
+        },
+        {
+          "title": "The Quest for Florence's Clues",
+          "objectives": [
+            "Engage teams in deciphering clues that challenge their creativity and problem-solving skills.",
+            "Build tension as teams compete to unlock the secrets of their artistic evolution.",
+            "Progress the storyline by revealing important information through the clues."
+          ]
+        },
+        {
+          "title": "The Great Debate",
+          "objectives": [
+            "Illustrate the clashing perspectives and artistic philosophies among the artists.",
+            "Force the characters to confront their differences and work towards a resolution.",
+            "Use the debate as a catalyst for character development and plot advancement."
+          ]
+        }
+      ]
+    },
+    {
+      "arc": "The Breakthrough",
+      "objectives": [
+        {
+          "title": "Facing the Inner Canvas",
+          "objectives": [
+            "Challenge artists to confront their personal fears and aspirations through their work.",
+            "Facilitate moments of introspection and vulnerability for character growth.",
+            "Prepare the artists for the next level of creative expression by overcoming internal barriers."
+          ]
+        },
+        {
+          "title": "Confrontation with the Inner Critic",
+          "objectives": [
+            "Dramatize the internal struggle each artist faces with self-doubt and criticism.",
+            "Show the process of overcoming these mental obstacles to unlock creative freedom.",
+            "Demonstrate the transformative effect of this confrontation on the artists' work."
+          ]
+        },
+        {
+          "title": "The Phoenix Project",
+          "objectives": [
+            "Encourage artists to create a piece that embodies their personal and artistic rebirth.",
+            "Highlight the evolution of the artists' styles and perspectives throughout their journey.",
+            "Provide a sense of closure to the breakthrough phase with a symbol of renewal."
+          ]
+        }
+      ]
+    },
+    {
+      "arc": "The Dark Night of the Soul",
+      "objectives": [
+        {
+          "title": "Descent into the Abyss",
+          "objectives": [
+            "Convey a collective sense of despair and self-doubt among the artists.",
+            "Use this low point to test the artists' commitment to their craft and journey.",
+            "Lay the emotional groundwork for a powerful rebound and newfound insight."
+          ]
+        },
+        {
+          "title": "The Ultimate Confrontation",
+          "objectives": [
+            "Bring unresolved tensions and issues among the artists to a head.",
+            "Create a pivotal moment that demands decisive action and resolution.",
+            "Use this climax to initiate a turning point for character and plot development."
+          ]
+        },
+        {
+          "title": "Finding the Silver Lining",
+          "objectives": [
+            "Guide the artists in discovering valuable lessons from their darkest moments.",
+            "Foster a sense of resilience and hope as they glean new creative insights.",
+            "Set the stage for the upcoming renaissance by resolving key conflicts."
+          ]
+        }
+      ]
+    },
+    {
+      "arc": "The Renaissance",
+      "objectives": [
+        {
+          "title": "Kindling the Creative Flame",
+          "objectives": [
+            "Reignite passion and creativity among the artists after overcoming adversity.",
+            "Establish new, inspired collaborations that reflect their growth.",
+            "Shift the narrative towards a positive and constructive phase of creation."
+          ]
+        },
+        {
+          "title": "Fusion into a Masterpiece",
+          "objectives": [
+            "Showcase the culmination of the artists' collective efforts in a significant work.",
+            "Ensure that the masterpiece reflects the transformative experiences of the group.",
+            "Highlight the harmony achieved through the synthesis of diverse artistic expressions."
+          ]
+        },
+        {
+          "title": "Unveiling the Visionary's Legacy",
+          "objectives": [
+            "Reveal the deeper intentions and wisdom behind Florence's guidance.",
+            "Provide the artists with a sense of closure and understanding of their journey.",
+            "Link the newfound wisdom to the artists' personal growth and future aspirations."
+          ]
+        }
+      ]
+    },
+    {
+      "arc": "The Revelation",
+      "objectives": [
+        {
+          "title": "The Game's Grand Design",
+          "objectives": [
+            "Clarify the overarching purpose and structure of the artists' journey.",
+            "Offer a satisfying resolution to the mysteries and challenges faced by the artists.",
+            "Connect the dots between the artists' experiences and the game's ultimate goals."
+          ]
+        },
+        {
+          "title": "Empathy and Understanding",
+          "objectives": [
+            "Share the backstory of Florence to engender empathy and deepen character connections.",
+            "Enhance the artists' understanding of their own paths by relating to Florence's experiences.",
+            "Strengthen the bond among artists through shared revelations and emotional resonance."
+          ]
+        },
+        {
+          "title": "The Spark of a New Beginning",
+          "objectives": [
+            "Showcase the artists' final pieces as symbols of their new beginnings and artistic visions.",
+            "Celebrate the individual journeys and how they have shaped the artists' future directions.",
+            "Set the tone for continued personal and creative development beyond the game."
+          ]
+        }
+      ]
+    },
+    {
+      "arc": "The Finale",
+      "objectives": [
+        {
+          "title": "The Celebration of Journeys",
+          "objectives": [
+            "Host a grand exhibition that acknowledges and honors each artist's transformative experience.",
+            "Provide a platform for public validation and recognition of the artists' accomplishments.",
+            "Celebrate the collective and individual successes as a climactic event."
+          ]
+        },
+        {
+          "title": "Reflections and Resolutions",
+          "objectives": [
+            "Encourage artists to introspect about their personal and artistic growth during the journey.",
+            "Tie up remaining storylines and address any unresolved issues among the characters.",
+            "Set intentions and future goals, establishing a sense of completion and readiness for what's next."
+          ]
+        },
+        {
+          "title": "The Next Chapter",
+          "objectives": [
+            "Introduce an unexpected twist or revelation that keeps the audience engaged.",
+            "Leave open-ended possibilities for future stories or continuations of the narrative.",
+            "Provide a satisfying yet intriguing conclusion that implies the adventure continues."
+          ]
+        }
+      ]
+    }
+  ]
+}

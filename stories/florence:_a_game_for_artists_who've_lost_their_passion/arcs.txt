@@ -1,0 +1,50 @@
+{
+  "title": "Florence: A Game for Artists Who've Lost Their Passion",
+  "arcs": [
+    {
+      "name": "The Awakening",
+      "description": "All characters are introduced in their current states of creative stagnation. They receive mysterious invitations to participate in Florence's game, sparking a mixture of curiosity and skepticism. Each character grapples with the decision to join, ultimately choosing to take the risk in hopes of rediscovering their lost creative fire.",
+      "key_events": [
+        "Characters receive invitations",
+        "Initial reluctance and introspection",
+        "Decision to join the game"
+      ]
+    },
+    {
+      "name": "The Descent",
+      "description": "As the game begins, each artist is confronted with challenges that force them to face their deepest fears and insecurities about their work and identities as creators. This arc pushes each character to their limits, causing friction between them but also forging new insights and bonds.",
+      "key_events": [
+        "First encounters with creative challenges",
+        "Personal fears manifest in game scenarios",
+        "Interpersonal conflicts and camaraderie development"
+      ]
+    },
+    {
+      "name": "The Reflection",
+      "description": "Midway through the game, the artists find themselves in a period of reflection. Florence orchestrates scenarios that compel the characters to revisit their past achievements and failures, learning to embrace and learn from both. They begin to see their creative blocks not as barriers but as opportunities for growth.",
+      "key_events": [
+        "Revisiting past works and experiences",
+        "Confronting the origin of their creative blocks",
+        "Gaining new perspectives on their artistic journeys"
+      ]
+    },
+    {
+      "name": "The Breakthrough",
+      "description": "A pivotal moment in the game occurs when each character experiences a personal breakthrough. For Ezra, it's the realization that perfection is not the goal; for Lila, it's understanding that true art evolves. Theo reconnects with his activist roots, and Vivienne discovers harmony in the chaos.",
+      "key_events": [
+        "Moments of clarity and transformation",
+        "Overcoming personal hurdles",
+        "Production of a new, inspired piece of art"
+      ]
+    },
+    {
+      "name": "The Renaissance",
+      "description": "In the final arc, the characters emerge from Florence's game renewed. Together, they put on a collaborative exhibition that combines their revitalized artistic expressions. Florence, witnessing the rebirth of passion in her fellow artists, finds a sense of closure and a hint of desire to return to her own art.",
+      "key_events": [
+        "Preparation and unveiling of the collaborative exhibition",
+        "Public and personal recognition of their artistic rebirth",
+        "Florence's subtle reemergence into the art world"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "title": "Florence: A Game for Artists Who've Lost Their Passion",
+  "description": "An interactive narrative that follows a group of artists as they embark on a transformative journey through a mysterious game created by Florence Beaumont, in order to reignite their lost passion for art.",
+  "arcs": [
+    {
+      "arcId": "arc1",
+      "title": "The Awakening",
+      "description": "Artists facing creative stagnation receive mysterious invitations to Florence's game, leading them to confront their fears and choose to seek their lost creative fire.",
+      "quests": [
+        {
+          "questId": "quest1_arc1",
+          "title": "Mysterious Invitation",
+          "acts": [
+            {
+              "actId": "act1_quest1_arc1",
+              "title": "Act of Invitation",
+              "objectives": [
+                "Introduce a mysterious invitation that sparks curiosity.",
+                "Establish the setting and atmosphere for the creative journey.",
+                "Create intrigue about the source and purpose of the invitation.",
+                "Motivate characters to consider accepting the invitation."
+              ]
+            },
+            {
+              "actId": "act2_quest1_arc1",
+              "title": "Act of Self-Reflection",
+              "objectives": [
+                "Engage characters in introspection about their creative processes.",
+                "Reveal the characters' fears and doubts about their artistic abilities.",
+                "Set the emotional stakes for the characters' journey of growth.",
+                "Prepare characters for the potential of change and improvement."
+              ]
+            },
+            {
+              "actId": "act3_quest1_arc1",
+              "title": "Act of Commitment",
+              "objectives": [
+                "Prompt characters to make a choice about facing their creative challenges.",
+                "Solidify the characters' determination to pursue their artistic growth.",
+                "Transition the characters from contemplation to action.",
+                "Foreshadow the difficulties and rewards that lie ahead."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "arcId": "arc2",
+      "title": "The Renaissance",
+      "description": "The artists, having traversed Florence's game, emerge renewed, culminating in a collaborative exhibition that sparks a hint of desire in Florence to return to her art.",
+      "quests": [
+        {
+          "questId": "quest1_arc2",
+          "title": "Collaborative Effort",
+          "acts": [
+            {
+              "actId": "act1_quest1_arc2",
+              "title": "Act of Collaboration",
+              "objectives": [
+                "Unite characters in a common goal to host a collective exhibition.",
+                "Highlight the synergies and dynamics of creative collaboration.",
+                "Reveal how individual growth contributes to a successful group effort.",
+                "Demonstrate the merging of diverse artistic visions into a cohesive show."
+              ]
+            },
+            {
+              "actId": "act2_quest1_arc2",
+              "title": "Act of Presentation",
+              "objectives": [
+                "Reveal the characters' new works to an audience, showcasing their progress.",
+                "Garner public and peer recognition for the characters' efforts.",
+                "Elicit emotional responses from the characters and audience alike.",
+                "Emphasize the transformation of the characters through the reception of their art."
+              ]
+            },
+            {
+              "actId": "act3_quest1_arc2",
+              "title": "Act of Culmination",
+              "objectives": [
+                "Reflect on the characters' journeys and their impact on Florence.",
+                "Display the transformative power of the characters' artistic evolution.",
+                "Inspire Florence to consider her own return to the art world.",
+                "Conclude the narrative arc with a sense of closure and possibility."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterId": "char1",
+      "name": "Florence Beaumont",
+      "role": "Game Creator/Protagonist",
+      "description": "The reclusive and brilliant creator of the game, a once-famed painter who seeks to help others rediscover their passion for art."
+    },
+    {
+      "characterId": "char2",
+      "name": "Ezra Knight",
+      "role": "Sculptor/Participant",
+      "description": "A tormented sculptor struggling with creative block, who joins the game to revive his once passionate drive."
+    },
+    {
+      "characterId": "char3",
+      "name": "Lila Vasquez",
+      "role": "Digital Artist/Participant",
+      "description": "A vibrant digital artist stuck in a thematic loop, looking to break free and redefine her artistic expression."
+    },
+    {
+      "characterId": "char4",
+      "name": "Theo Winters",
+      "role": "Street Artist/Participant",
+      "description": "A street artist whose work has become too safe, seeking to reconnect with his edgy, activist roots."
+    },
+    {
+      "characterId": "char5",
+      "name": "Vivienne Moreau",
+      "role": "Performance Artist/Participant",
+      "description": "A musician turned avant-garde artist, on a quest to merge discipline with her desire for unconventional creativity."
+    }
+  ],
+  "currentState": {
+    "currentArcId": "arc1",
+    "currentQuestId": "quest1_arc1",
+    "currentActId": "act1_quest1_arc1",
+    "goalStatuses": {}
+  }
+}

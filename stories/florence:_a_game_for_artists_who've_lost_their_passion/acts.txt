@@ -1,0 +1,60 @@
+{
+  "acts": [
+    {
+      "title": "Act of Invitation",
+      "description": "Characters discover and ponder a cryptic invitation that sets the stage for their creative journey within Florence's game."
+    },
+    {
+      "title": "Act of Self-Reflection",
+      "description": "Characters confront their inner doubts and fears, reflecting on their creative blocks and the possibility of overcoming them."
+    },
+    {
+      "title": "Act of Commitment",
+      "description": "Characters make the decision to accept the challenge, representing their commitment to confronting and overcoming their creative stagnation."
+    },
+    {
+      "title": "Act of Trial",
+      "description": "Characters face their first creative test, which is tailored to expose their specific weaknesses and fears."
+    },
+    {
+      "title": "Act of Confrontation",
+      "description": "Characters encounter personalized representations of their deepest artistic insecurities."
+    },
+    {
+      "title": "Act of Unity",
+      "description": "Characters experience moments of support and camaraderie, which help them deal with the game's challenges."
+    },
+    {
+      "title": "Act of Remembrance",
+      "description": "Characters are guided through scenarios that force them to engage with and learn from both the victories and failures of their past work."
+    },
+    {
+      "title": "Act of Understanding",
+      "description": "Characters dissect the origins of their creative blocks, acknowledging these barriers as part of their growth."
+    },
+    {
+      "title": "Act of Transformation",
+      "description": "Characters gain new perspectives on their creative journey through learning from their past, which fosters personal growth."
+    },
+    {
+      "title": "Act of Realization",
+      "description": "Individual characters come to pivotal realizations about their work and themselves, leading to significant personal growth."
+    },
+    {
+      "title": "Act of Creation",
+      "description": "Characters use their newfound insights to create new, inspired works of art that symbolize their growth."
+    },
+    {
+      "title": "Act of Collaboration",
+      "description": "Characters work together to organize a joint exhibition, blending their refreshed artistic visions."
+    },
+    {
+      "title": "Act of Presentation",
+      "description": "The artists reveal their new works to the public, demonstrating their rejuvenated passion and skill."
+    },
+    {
+      "title": "Act of Culmination",
+      "description": "The success and transformation of the artists is observed by Florence, prompting her own contemplation of a return to the art world."
+    }
+  ]
+}

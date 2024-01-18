@@ -1,0 +1,98 @@
+{
+  "title": "Florence: A Game for Artists Who've Lost Their Passion",
+  "arcs": [
+    {
+      "name": "The Awakening",
+      "quests": [
+        {
+          "title": "Mysterious Invitation",
+          "description": "Each character discovers a cryptic invitation to join Florence's game, setting the scene for their potential creative revival."
+        },
+        {
+          "title": "Inner Turmoil",
+          "description": "Characters engage in self-reflection and battle their skepticism and fear of failure as they consider the invitation."
+        },
+        {
+          "title": "Leap of Faith",
+          "description": "One by one, the artists decide to face their creative stagnation head-on and accept the challenge of Florence's game."
+        }
+      ]
+    },
+    {
+      "name": "The Descent",
+      "quests": [
+        {
+          "title": "First Challenge",
+          "description": "Artists face their initial creative trial, designed to highlight their individual weaknesses and fears."
+        },
+        {
+          "title": "Confronting Shadows",
+          "description": "Each character comes face-to-face with personalized manifestations of their deepest artistic insecurities."
+        },
+        {
+          "title": "Forging Bonds",
+          "description": "Despite rising tensions, the artists find moments of support and camaraderie that help them cope with the game's challenges."
+        }
+      ]
+    },
+    {
+      "name": "The Reflection",
+      "quests": [
+        {
+          "title": "Ghosts of the Past",
+          "description": "The artists are led through scenarios that make them confront and appreciate the highs and lows of their past work."
+        },
+        {
+          "title": "Block Breakdown",
+          "description": "Characters analyze the origins of their creative blocks, recognizing these obstacles as part of their artistic evolution."
+        },
+        {
+          "title": "Shifting Perspectives",
+          "description": "As they learn from their past, the artists start to see their creative journey with new eyes, fostering personal growth."
+        }
+      ]
+    },
+    {
+      "name": "The Breakthrough",
+      "quests": [
+        {
+          "title": "Ezra's Epiphany",
+          "description": "Ezra's quest leads him to understand that imperfection is not only acceptable but necessary for growth."
+        },
+        {
+          "title": "Lila's Evolution",
+          "description": "Lila's journey shows her that art is not static and must change just as she does."
+        },
+        {
+          "title": "Theo's Roots",
+          "description": "Theo reconnects with his past activism, infusing his work with renewed purpose and passion."
+        },
+        {
+          "title": "Vivienne's Harmony",
+          "description": "Vivienne embraces the chaos within and around her, finding beauty and balance in what once overwhelmed her."
+        },
+        {
+          "title": "New Creations",
+          "description": "Each artist channels their breakthroughs into creating a new, inspired piece of art, symbolizing their personal growth."
+        }
+      ]
+    },
+    {
+      "name": "The Renaissance",
+      "quests": [
+        {
+          "title": "Collaborative Effort",
+          "description": "The artists work together to plan and prepare for a joint exhibition, combining their renewed artistic visions."
+        },
+        {
+          "title": "The Reveal",
+          "description": "The grand unveiling of the exhibition to the public, showcasing the artists' rejuvenated passion and talent."
+        },
+        {
+          "title": "Florence's Return",
+          "description": "Florence observes the success and transformation of the artists, feeling the stirrings of her own return to the art world."
+        }
+      ]
+    }
+  ]
+}

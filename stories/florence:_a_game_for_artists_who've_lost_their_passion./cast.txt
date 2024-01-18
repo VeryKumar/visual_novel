@@ -1,0 +1,47 @@
+{
+    "title": "Florence: A Game for Artists Who've Lost Their Passion",
+    "characters": [
+        {
+            "name": "Florence Duval",
+            "description": "The enigmatic creator of the game, a once-celebrated painter who vanished from the public eye after a personal tragedy. Florence is determined to reignite the spark of creativity in others.",
+            "personality": "Mysterious, introspective, and deeply empathetic. She's a master at understanding the human soul and the struggles of an artist.",
+            "aesthetic": "Bohemian chic with a touch of vintage elegance. Prefers earthy tones and always wears a locket with a hidden painting inside."
+        },
+        {
+            "name": "Elijah Stern",
+            "description": "A former sculptor who now struggles to find meaning in his work. He joined the game to break through his creative block.",
+            "personality": "Brooding, intense, and fiercely competitive. Despite his tough exterior, he is vulnerable and seeks validation for his art.",
+            "aesthetic": "Monochromatic, structured clothing mirroring his sculptural background. Often seen in a leather jacket with abstract metal adornments."
+        },
+        {
+            "name": "Lila Reyes",
+            "description": "A young, idealistic photographer who has lost her direction after her debut series was met with harsh criticism.",
+            "personality": "Passionate, sensitive, and a dreamer at heart. She's eager to prove herself and regain her confidence through the game.",
+            "aesthetic": "Urban street style meets contemporary art. Always carries a vintage camera and wears vibrant, patterned scarves."
+        },
+        {
+            "name": "Vincent Harper",
+            "description": "A washed-up rock musician turned painter, searching for a new muse after the disbandment of his group.",
+            "personality": "Charismatic, nostalgic, and a bit of a romantic. He's often lost in memories of his glory days but yearns to create something new and meaningful.",
+            "aesthetic": "Retro rocker with a penchant for leather and denim, adorned with paint splatters as a testament to his new path."
+        },
+        {
+            "name": "Amara Singh",
+            "description": "A gifted writer of magical realism who battles writer's block after an overly commercialized second novel.",
+            "personality": "Witty, cerebral, and deeply self-critical. She's constantly searching for stories that matter and resonate on a personal level.",
+            "aesthetic": "Boho intellectual with layers of flowing fabrics, paired with practical boots for her urban explorations. Always has a notebook at hand."
+        },
+        {
+            "name": "Theo Matsumoto",
+            "description": "An avant-garde performance artist who fears he's become predictable, joining the game to rediscover spontaneity.",
+            "personality": "Experimental, bold, and a little eccentric. He enjoys pushing boundaries and is always up for a challenge.",
+            "aesthetic": "Futuristic androgyny with a flair for dramatic accessories. Prefers clothing that makes a statement and often changes his look dramatically."
+        },
+        {
+            "name": "Ruby Clark",
+            "description": "A once-prolific graphic novelist whose inspiration dried up after a series of personal losses. She's hoping the game will be her salvation.",
+            "personality": "Quirky, resilient, and creative. Despite her setbacks, she maintains a sense of humor and a belief in the power of storytelling.",
+            "aesthetic": "Geek chic with a touch of goth, often seen in graphic tees featuring her favorite characters, layered under a dark blazer."
+        }
+    ]
+}

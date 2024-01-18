@@ -1,0 +1,167 @@
+{
+  "title": "Florence: A Game for Artists Who've Lost Their Passion",
+  "description": "A narrative-driven journey where enigmatic game creator Florence Duval brings together struggling artists to rekindle their creativity through a series of mysterious and transformative tasks.",
+  "arcs": [
+    {
+      "arcId": "arc1",
+      "title": "The Awakening",
+      "description": "Artists are summoned to a secluded chateau and must confront their fears before embarking on a creative journey.",
+      "quests": [
+        {
+          "questId": "quest1_arc1",
+          "title": "Summoning of the Lost",
+          "acts": [
+            {
+              "actId": "act1_quest1_arc1",
+              "title": "Arrival at the Chateau",
+              "objectives": [
+                "Establish the setting and mood of the chateau as a place of wonder and potential.",
+                "Introduce each artist, highlighting their excitement and trepidation upon arrival.",
+                "Set the stage for the upcoming journey with a sense of mystery and anticipation."
+              ]
+            },
+            {
+              "actId": "act2_quest1_arc1",
+              "title": "The Artists' Gathering",
+              "objectives": [
+                "Create opportunities for artists to express their artistic backgrounds and current creative status.",
+                "Foster initial connections and potential rivalries among the artists.",
+                "Lay the groundwork for the communal and individual paths of artistic exploration."
+              ]
+            },
+            {
+              "actId": "act3_quest1_arc1",
+              "title": "The Commitment Ceremony",
+              "objectives": [
+                "Deepen the artists' sense of purpose and resolve for their creative quest.",
+                "Evoke a sense of solemnity and significance surrounding the artistic journey ahead.",
+                "Cement the artists' dedication to their craft and the challenges that lie ahead."
+              ]
+            }
+          ]
+        },
+        {
+          "questId": "quest2_arc1",
+          "title": "The First Impression",
+          "acts": [
+            {
+              "actId": "act1_quest2_arc1",
+              "title": "Showcasing Unique Talents",
+              "objectives": [
+                "Allow each artist to showcase their unique work and artistic voice.",
+                "Highlight the initial reception of their work by Florence and the other artists.",
+                "Provide the first glimpses into the artists' insecurities and aspirations."
+              ]
+            },
+            {
+              "actId": "act2_quest2_arc1",
+              "title": "Reflections and Realizations",
+              "objectives": [
+                "Capture the artists' internal reactions to the feedback received.",
+                "Illustrate the beginning of self-discovery as artists ponder their creative identities.",
+                "Sow the seeds for potential transformations as artists start to question their own perceptions."
+              ]
+            },
+            {
+              "actId": "act3_quest2_arc1",
+              "title": "Commitment to the Journey",
+              "objectives": [
+                "After understanding the stakes, artists commit to the game, setting the stage for their transformation."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "arcId": "arc2",
+      "title": "The Challenge",
+      "description": "Artists are given their first task, pushing them out of their comfort zones and into unexpected collaborations.",
+      "quests": [
+        {
+          "questId": "quest1_arc2",
+          "title": "Creative Catalyst",
+          "acts": [
+            {
+              "actId": "act1_quest1_arc2",
+              "title": "Formation of Alliances",
+              "objectives": [
+                "Showcase the formation of teams and the emergence of group dynamics.",
+                "Highlight the strengths and weaknesses that each artist brings to their alliance.",
+                "Set the stage for collaboration and potential conflict within and between groups."
+              ]
+            },
+            {
+              "actId": "act2_quest1_arc2",
+              "title": "The Quest for Florence's Clues",
+              "objectives": [
+                "Engage teams in deciphering clues that challenge their creativity and problem-solving skills.",
+                "Build tension as teams compete to unlock the secrets of their artistic evolution.",
+                "Progress the storyline by revealing important information through the clues."
+              ]
+            },
+            {
+              "actId": "act3_quest1_arc2",
+              "title": "The Great Debate",
+              "objectives": [
+                "Illustrate the clashing perspectives and artistic philosophies among the artists.",
+                "Force the characters to confront their differences and work towards a resolution.",
+                "Use the debate as a catalyst for character development and plot advancement."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterId": "char1",
+      "name": "Florence Duval",
+      "role": "Game Creator",
+      "description": "The enigmatic creator of the game, determined to reignite the spark of creativity in artists."
+    },
+    {
+      "characterId": "char2",
+      "name": "Elijah Stern",
+      "role": "Former Sculptor",
+      "description": "A former sculptor who joined the game to break through his creative block."
+    },
+    {
+      "characterId": "char3",
+      "name": "Lila Reyes",
+      "role": "Photographer",
+      "description": "A young photographer who has lost her direction and seeks to regain her confidence through the game."
+    },
+    {
+      "characterId": "char4",
+      "name": "Vincent Harper",
+      "role": "Musician Turned Painter",
+      "description": "A rock musician turned painter searching for new inspiration."
+    },
+    {
+      "characterId": "char5",
+      "name": "Amara Singh",
+      "role": "Writer",
+      "description": "A writer battling writer's block after an overly commercialized second novel."
+    },
+    {
+      "characterId": "char6",
+      "name": "Theo Matsumoto",
+      "role": "Performance Artist",
+      "description": "An avant-garde artist who joined the game to rediscover spontaneity."
+    },
+    {
+      "characterId": "char7",
+      "name": "Ruby Clark",
+      "role": "Graphic Novelist",
+      "description": "A graphic novelist hoping the game will be her salvation after a series of personal losses."
+    }
+  ],
+  "currentState": {
+    "currentArcId": "arc1",
+    "currentQuestId": "quest1_arc1",
+    "currentActId": "act1_quest1_arc1",
+    "goalStatuses": {}
+  }
+}

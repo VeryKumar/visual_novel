@@ -1,0 +1,130 @@
+{
+  "objectives": [
+    {
+      "title": "Act of Invitation",
+      "objectives": [
+        "Introduce a mysterious invitation that sparks curiosity.",
+        "Establish the setting and atmosphere for the creative journey.",
+        "Create intrigue about the source and purpose of the invitation.",
+        "Motivate characters to consider accepting the invitation."
+      ]
+    },
+    {
+      "title": "Act of Self-Reflection",
+      "objectives": [
+        "Engage characters in introspection about their creative processes.",
+        "Reveal the characters' fears and doubts about their artistic abilities.",
+        "Set the emotional stakes for the characters' journey of growth.",
+        "Prepare characters for the potential of change and improvement."
+      ]
+    },
+    {
+      "title": "Act of Commitment",
+      "objectives": [
+        "Prompt characters to make a choice about facing their creative challenges.",
+        "Solidify the characters' determination to pursue their artistic growth.",
+        "Transition the characters from contemplation to action.",
+        "Foreshadow the difficulties and rewards that lie ahead."
+      ]
+    },
+    {
+      "title": "Act of Trial",
+      "objectives": [
+        "Design a creative task that targets each character's unique vulnerabilities.",
+        "Test the characters' resolve and ability to cope with failure.",
+        "Highlight the characters' initial responses to adversity.",
+        "Set a benchmark for characters to measure their progress against."
+      ]
+    },
+    {
+      "title": "Act of Confrontation",
+      "objectives": [
+        "Confront characters with symbolic challenges representing their deepest fears.",
+        "Force characters to recognize the source of their artistic insecurities.",
+        "Create tension and conflict that requires characters to face their issues head-on.",
+        "Drive characters to seek solutions to their creative obstacles."
+      ]
+    },
+    {
+      "title": "Act of Unity",
+      "objectives": [
+        "Foster connections between characters through shared experiences.",
+        "Illustrate the power of support and encouragement among peers.",
+        "Build a sense of community and belonging that strengthens resolve.",
+        "Use camaraderie to help characters overcome individual challenges."
+      ]
+    },
+    {
+      "title": "Act of Remembrance",
+      "objectives": [
+        "Guide characters through revisiting their past successes and failures.",
+        "Encourage reflection on the lessons learned from previous experiences.",
+        "Help characters to integrate their past into their current creative identity.",
+        "Inspire characters to draw strength from their artistic history."
+      ]
+    },
+    {
+      "title": "Act of Understanding",
+      "objectives": [
+        "Lead characters to analyze and recognize the roots of their creative blocks.",
+        "Promote acceptance of creative barriers as a natural part of the artistic process.",
+        "Encourage a shift in perspective regarding past obstacles.",
+        "Lay the groundwork for overcoming these barriers through newfound understanding."
+      ]
+    },
+    {
+      "title": "Act of Transformation",
+      "objectives": [
+        "Illustrate characters' growth through changed attitudes and behaviors.",
+        "Showcase the evolution of characters' artistic perspectives.",
+        "Reinforce the positive outcomes of embracing and learning from challenges.",
+        "Set the stage for renewed creative output."
+      ]
+    },
+    {
+      "title": "Act of Realization",
+      "objectives": [
+        "Culminate the characters' introspection in significant epiphanies.",
+        "Facilitate personal growth by resolving internal conflicts.",
+        "Solidify characters' renewed sense of purpose and artistic direction.",
+        "Prepare characters for a reinvigorated approach to their art."
+      ]
+    },
+    {
+      "title": "Act of Creation",
+      "objectives": [
+        "Translate characters' insights and realizations into artistic expression.",
+        "Demonstrate the characters' development through original creations.",
+        "Allow characters to showcase their rejuvenated passion for their craft.",
+        "Celebrate the act of creation as a testament to overcoming adversity."
+      ]
+    },
+    {
+      "title": "Act of Collaboration",
+      "objectives": [
+        "Unite characters in a common goal to host a collective exhibition.",
+        "Highlight the synergies and dynamics of creative collaboration.",
+        "Reveal how individual growth contributes to a successful group effort.",
+        "Demonstrate the merging of diverse artistic visions into a cohesive show."
+      ]
+    },
+    {
+      "title": "Act of Presentation",
+      "objectives": [
+        "Reveal the characters' new works to an audience, showcasing their progress.",
+        "Garner public and peer recognition for the characters' efforts.",
+        "Elicit emotional responses from the characters and audience alike.",
+        "Emphasize the transformation of the characters through the reception of their art."
+      ]
+    },
+    {
+      "title": "Act of Culmination",
+      "objectives": [
+        "Reflect on the characters' journeys and their impact on Florence.",
+        "Display the transformative power of the characters' artistic evolution.",
+        "Inspire Florence to consider her own return to the art world.",
+        "Conclude the narrative arc with a sense of closure and possibility."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Florence: A Game for Artists Who've Lost Their Passion",
+  "characters": [
+    {
+      "name": "Florence Beaumont",
+      "description": "The enigmatic creator of the game and a once-famed painter whose works inspired a generation. She vanished from the public eye after claiming to have lost her passion for art.",
+      "personality": "Reclusive, introspective, and brilliant. Florence is a master of understanding the human condition, which is reflected in her game's design. Despite her withdrawn nature, she is deeply empathetic and seeks to help others reignite their creative spark.",
+      "aesthetic": "Ethereal and timeless. Florence often wears flowing garments that seem to be touched by an artist's brush, with soft colors that blend seamlessly into her serene studio environment."
+    },
+    {
+      "name": "Ezra Knight",
+      "description": "A once-celebrated sculptor who now struggles with a creative block. He joins Florence's game in a desperate attempt to rediscover the passion that once drove his hands to mold masterpieces.",
+      "personality": "Intense, passionate, and slightly tormented. Ezra is highly critical of his own work, which both drives his excellence and fuels his creative block.",
+      "aesthetic": "Rugged and tactile. Ezra's clothing is often covered in clay or dust from his sculpting, and he prefers sturdy materials that can withstand his physical approach to art."
+    },
+    {
+      "name": "Lila Vasquez",
+      "description": "A young, vibrant digital artist who gained early success with her vivid animations but now finds herself stuck in a loop of repetitive themes and unfulfilling projects.",
+      "personality": "Quirky, energetic, and a bit of a dreamer. Lila is quick to laugh and always searching for new experiences. However, her fear of being pigeonholed into one style of art creates anxiety that stifles her creativity.",
+      "aesthetic": "Colorful and eclectic. Lila's fashion sense is bold and expressive, mirroring her digital creations with neon colors and patterns that are always in flux."
+    },
+    {
+      "name": "Theo Winters",
+      "description": "A street artist whose politically charged murals once sparked conversation and controversy. Recently, his work has lost its edge, feeling safer and more commercial.",
+      "personality": "Rebellious, outspoken, and reflective. Theo is a natural leader with a strong sense of social justice, but his recent success has left him feeling disconnected from his roots.",
+      "aesthetic": "Urban and sharp. Theo's wardrobe consists of dark, functional clothing that allows him to blend into the cityscape during his late-night painting sessions."
+    },
+    {
+      "name": "Vivienne Moreau",
+      "description": "A classical musician turned avant-garde performance artist, Vivienne is searching for a way to fuse her disciplined background with her desire to break free from convention.",
+      "personality": "Sophisticated, enigmatic, and experimental. She is not afraid to take risks in her art, but she often questions whether her work is truly innovative or simply chaotic.",
+      "aesthetic": "Elegant with an edge. Vivienne's style is a harmonious blend of classic beauty with unexpected, avant-garde elements that hint at her dual artistic nature."
+    }
+  ]
+}
