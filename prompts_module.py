@@ -54,6 +54,6 @@ scene_template = PromptTemplate(
 )
 
 character_template = PromptTemplate(
-    input_variables=["name", "description", "personality", "aesthetic", "scene", "user_input"],
-    template="Respond as {name}], who is {description}. They are {personality}. In this scenario, [brief context], they would [expected reaction/action based on personality].Scenario: [One or two sentences setting the scene.] Question/Interaction: [Specific question or interaction for the character.] Character's Response:"
+    input_variables=["name", "description", "personality", "aesthetic", "act", "user_input"],
+    template="Respond as {name}], who is {description}. They are {personality}. They have this aesthetic: {aesthetic}. In this scenario, we are in the act {act}. Our main character just said this Question/Interaction: {user_input} Character's Response:"
 )

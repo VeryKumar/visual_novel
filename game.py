@@ -2,14 +2,15 @@ from langchain.schema import ChatMessage
 from langchain_openai import ChatOpenAI
 import streamlit as st
 import json
-from prompts_module import narrator_template
+# from prompts_module import narrator_template
 from chains_module import narrator_chain
 
-from langchain_openai import ChatOpenAI
 from callbacks import StreamHandler
-import streamlit as st
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import LLMChain
+
+# Memory
+from langchain.memory import ConversationBufferMemory
 
 
 
@@ -63,7 +64,7 @@ def get_current_story_elements(story_object):
     return current_arc, current_quest, current_act, current_objectives
 
 current_arc, current_quest, current_act, current_objectives = get_current_story_elements(story_object)
-    
+
 
  #TODO: Figure out how to access the correct quest/act/objective. Right now its hardcoded   
 
@@ -79,18 +80,30 @@ current_arc, current_quest, current_act, current_objectives = get_current_story_
     
 # LANGCHAIN LOGIC 
 
+#
+chat_memory = ConversationBufferMemory(memory_key='chat_history', input_key='user_input')   
 
+narrator_template = ChatPromptTemplate.from_template("DESCRIPTION: You are the narrator of a story called {title}. Right now the main character is trying to achieve the objective {objective}. The current world arc is: {arc}, which is made up of quests. The current quest is: {quest} which is made of acts. The current act is: {act}. The narrator is an omniscient and articulate entity, possessing a deep understanding of the story world and its characters. They are wise, often imparting subtle hints and insights about the plot and character motivations. The narrator is neutral in tone, maintaining a balance between detachment and empathy, allowing players to form their own emotional connections with the story. The narrator provides background information, setting the scene at the beginning of the story or a new chapter, Throughout the game, the narrator offers subtle guidance. This can include hints or suggestions, especially in moments of player indecision or confusion, but without giving away crucial plot points or making decisions for the player. The narrator occasionally offers insights into characters' thoughts or emotions that are not explicitly stated in the dialogue. This deepens the understanding of character motivations and relationships. The narrator helps in transitioning the story from one arc to another, maintaining narrative cohesion, especially when time jumps or significant events occur. At critical junctures, the narrator may provide reflective commentary, encouraging players to think about the implications of their choices or the events that have unfolded. CHAT HISTORY:{chat_history} MAIN CHARACTER: {user_input} NARRATOR RESPONSE:")
 
-narrator_template = ChatPromptTemplate.from_template("DESCRIPTION: You are the narrator of a story called {title}. Right now the main character is trying to achieve the objective {objective}. The current world arc is: {arc}, which is made up of quests. The current quest is: {quest} which is made of acts. The current act is: {act}. The narrator is an omniscient and articulate entity, possessing a deep understanding of the story world and its characters. They are wise, often imparting subtle hints and insights about the plot and character motivations. The narrator is neutral in tone, maintaining a balance between detachment and empathy, allowing players to form their own emotional connections with the story. The narrator provides background information, setting the scene at the beginning of the story or a new chapter, Throughout the game, the narrator offers subtle guidance. This can include hints or suggestions, especially in moments of player indecision or confusion, but without giving away crucial plot points or making decisions for the player. The narrator occasionally offers insights into characters' thoughts or emotions that are not explicitly stated in the dialogue. This deepens the understanding of character motivations and relationships. The narrator helps in transitioning the story from one arc to another, maintaining narrative cohesion, especially when time jumps or significant events occur. At critical junctures, the narrator may provide reflective commentary, encouraging players to think about the implications of their choices or the events that have unfolded. NARRATOR RESPONSE:")
+character_template = ChatPromptTemplate.from_template("Respond as {name}], who is {description}. They are {personality}. They have this aesthetic: {aesthetic}. In this scenario, we are in the act {act}. CHAT HISTORY:{chat_history} Our main character just said this Question/Interaction: {user_input} Character's Response:"
+)
 
 
 
 
 openai_api_key = st.secrets["OPENAI_API_KEY"]
 
+# Streamlit App
+st.sidebar.title("Status:")
+st.sidebar.markdown(f"Current Arc: **{current_arc['title']}**")
+st.sidebar.markdown(f"Current Quest: **{current_quest['title']}**")
+st.sidebar.markdown(f"Current Act: **{current_act['title']}**")
+markdown_objective_list = "\n".join(f"- **{objective}**" for objective in current_objectives)
+st.sidebar.markdown(f"Current Objectives\n{markdown_objective_list}")
 
 if "messages" not in st.session_state:
     st.session_state["messages"] = [ChatMessage(role="narrator", content=f"Welcome to the world of: {title}")]
+    
 
 for msg in st.session_state.messages:
     st.chat_message(msg.role).write(msg.content)
@@ -102,20 +115,40 @@ if prompt := st.chat_input():
     if not openai_api_key:
         st.info("Please add your OpenAI API key to continue.")
         st.stop()
+        
+    print(cast[0]['name'])
 
     with st.chat_message("narrator"):
         
         stream_handler = StreamHandler(st.empty())
-        llm = ChatOpenAI(openai_api_key=openai_api_key, streaming=True, callbacks=[stream_handler])
-        narrator_chain = LLMChain(llm=llm, prompt=narrator_template,
-                          verbose=True, output_key='narrator')
-        # response = llm.invoke(st.session_state.messages)
-        
-        response = narrator_chain.run({"title":title, "arc":current_arc, "quest":current_quest, "act":current_act, "objective":current_objectives[0]})
-        # for chunk in narrator_chain.stream({"title":title, "arc":current_arc, "quest":current_quest, "act":current_act, "objective":current_objectives[0]}):
-        #     print(chunk, end="", flush=True)
+        llm = ChatOpenAI(openai_api_key=openai_api_key, streaming=True, callbacks=[stream_handler], max_tokens=100)
+        narrator_chain = LLMChain(
+            llm=llm, 
+            prompt=narrator_template,
+            verbose=True, 
+            memory=chat_memory, 
+            output_key='narrator'
+        )
+        response = narrator_chain({"title":title, "arc":current_arc, "quest":current_quest, "act":current_act, "objective":current_objectives[0], "user_input":prompt})
         print(response)
-        # content = response["narrator"]
-        st.session_state.messages.append(ChatMessage(role="narrator", content=response))
+        content = response["narrator"]
+        st.session_state.messages.append(ChatMessage(role="narrator", content=content))
+        print('MEMORY',chat_memory)
         
-   
+    with st.chat_message(cast[0]['name']):
+        
+        stream_handler = StreamHandler(st.empty())
+        llm = ChatOpenAI(openai_api_key=openai_api_key, streaming=True, callbacks=[stream_handler], max_tokens=100)
+        
+        character_chain = LLMChain(
+            llm=llm, 
+            prompt=character_template,
+            verbose=True, 
+            memory=chat_memory,
+            output_key="character")
+        
+        response = character_chain({"name":cast[0]['name'], "description":cast[0]['description'], "personality":cast[0]['personality'], "aesthetic":cast[0]['aesthetic'], "act":current_act, "user_input":prompt})
+        content = response["character"]
+        st.session_state.messages.append(ChatMessage(role=f"{cast[0]['name']}", content=content))
+        print('MEMORY',chat_memory)
+        
