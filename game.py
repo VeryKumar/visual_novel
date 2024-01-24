@@ -2,7 +2,6 @@ from langchain.schema import ChatMessage
 from langchain_openai import ChatOpenAI
 import streamlit as st
 import json
-# from prompts_module import narrator_template
 from chains_module import narrator_chain
 
 from callbacks import StreamHandler
@@ -12,14 +11,8 @@ from langchain.chains import LLMChain
 # Memory
 from langchain.memory import ConversationBufferMemory
 
-
-
-# llm = ChatOpenAI(
-#             model='gpt-4-1106-preview',
-#             streaming = True,
-#             callbacks=[stream_handler]
-            
-# )
+# My Shit
+from evaluators.objective_evaluator import ObjectiveEvaluator
 
 openai_api_key=st.secrets['OPENAI_API_KEY']
 
@@ -33,11 +26,11 @@ cast = []
 # acts = {}
 # objectives = {}
 
-with open("stories/florence:_a_game_for_artists_who've_lost_their_passion/story_object.txt") as f:
+with open("stories/Full_metal_Alchemist:_The_final_brotherhood/story_object.txt") as f:
     story_object = json.load(f)
     title = story_object['title']
     
-with open("stories/florence:_a_game_for_artists_who've_lost_their_passion/cast.txt") as f:
+with open("stories/Full_metal_Alchemist:_The_final_brotherhood/cast.txt") as f:
     cast_object = json.load(f)
     cast = cast_object['characters']
     
@@ -65,7 +58,6 @@ def get_current_story_elements(story_object):
 
 current_arc, current_quest, current_act, current_objectives = get_current_story_elements(story_object)
 
-
  #TODO: Figure out how to access the correct quest/act/objective. Right now its hardcoded   
 
 # with open("stories/florence:_a_game_for_artists_who've_lost_their_passion/arcs.txt") as f:
@@ -77,7 +69,26 @@ current_arc, current_quest, current_act, current_objectives = get_current_story_
 #     quests = quest_object['']
 # with open("stories/florence:_a_game_for_artists_who've_lost_their_passion/acts.txt") as f:
 # with open("stories/florence:_a_game_for_artists_who've_lost_their_passion/objectives.txt") as f:
-    
+
+# Helper Function
+def NarratorChats():
+    with st.chat_message("narrator"):
+            stream_handler = StreamHandler(st.empty())
+            llm = ChatOpenAI(openai_api_key=openai_api_key, streaming=True, callbacks=[stream_handler], max_tokens=100)
+            narrator_chain = LLMChain(
+                llm=llm, 
+                prompt=narrator_template,
+                verbose=True, 
+                memory=chat_memory, 
+                output_key='narrator'
+            )
+            response = narrator_chain({"title":title, "arc":current_arc, "quest":current_quest, "act":current_act, "objective":current_objectives[0], "user_input":prompt})
+            print(response)
+            content = response["narrator"]
+            st.session_state.messages.append(ChatMessage(role="narrator", content=content))
+            print('MEMORY',chat_memory)
+            st.session_state["narrator_done"] = True
+
 # LANGCHAIN LOGIC 
 
 #
@@ -87,10 +98,7 @@ narrator_template = ChatPromptTemplate.from_template("DESCRIPTION: You are the n
 
 character_template = ChatPromptTemplate.from_template("Respond as {name}], who is {description}. They are {personality}. They have this aesthetic: {aesthetic}. In this scenario, we are in the act {act}. CHAT HISTORY:{chat_history} Our main character just said this Question/Interaction: {user_input} Character's Response:"
 )
-
-
-
-
+objective_evaluator = ObjectiveEvaluator(llm = ChatOpenAI(openai_api_key=openai_api_key, max_tokens=1000))
 openai_api_key = st.secrets["OPENAI_API_KEY"]
 
 # Streamlit App
@@ -103,8 +111,9 @@ st.sidebar.markdown(f"Current Objectives\n{markdown_objective_list}")
 
 if "messages" not in st.session_state:
     st.session_state["messages"] = [ChatMessage(role="narrator", content=f"Welcome to the world of: {title}")]
+if "narrator_done" not in st.session_state:
+    st.session_state["narrator_done"] = False
     
-
 for msg in st.session_state.messages:
     st.chat_message(msg.role).write(msg.content)
 
@@ -116,29 +125,28 @@ if prompt := st.chat_input():
         st.info("Please add your OpenAI API key to continue.")
         st.stop()
         
-    print(cast[0]['name'])
-
-    with st.chat_message("narrator"):
-        
-        stream_handler = StreamHandler(st.empty())
-        llm = ChatOpenAI(openai_api_key=openai_api_key, streaming=True, callbacks=[stream_handler], max_tokens=100)
-        narrator_chain = LLMChain(
-            llm=llm, 
-            prompt=narrator_template,
-            verbose=True, 
-            memory=chat_memory, 
-            output_key='narrator'
-        )
-        response = narrator_chain({"title":title, "arc":current_arc, "quest":current_quest, "act":current_act, "objective":current_objectives[0], "user_input":prompt})
-        print(response)
-        content = response["narrator"]
-        st.session_state.messages.append(ChatMessage(role="narrator", content=content))
-        print('MEMORY',chat_memory)
-        
+    if not st.session_state["narrator_done"]:
+        with st.chat_message("narrator"):
+            
+            stream_handler = StreamHandler(st.empty())
+            llm = ChatOpenAI(openai_api_key=openai_api_key, streaming=True, callbacks=[stream_handler], max_tokens=100)
+            narrator_chain = LLMChain(
+                llm=llm, 
+                prompt=narrator_template,
+                verbose=True, 
+                memory=chat_memory, 
+                output_key='narrator'
+            )
+            response = narrator_chain({"title":title, "arc":current_arc, "quest":current_quest, "act":current_act, "objective":current_objectives[0], "user_input":prompt})
+            print(response)
+            content = response["narrator"]
+            st.session_state.messages.append(ChatMessage(role="narrator", content=content))
+            print('MEMORY',chat_memory)
+            st.session_state["narrator_done"] = True
+            
     with st.chat_message(cast[0]['name']):
-        
         stream_handler = StreamHandler(st.empty())
-        llm = ChatOpenAI(openai_api_key=openai_api_key, streaming=True, callbacks=[stream_handler], max_tokens=100)
+        llm = ChatOpenAI(openai_api_key=openai_api_key, streaming=True, callbacks=[stream_handler], max_tokens=1000)
         
         character_chain = LLMChain(
             llm=llm, 
@@ -146,9 +154,19 @@ if prompt := st.chat_input():
             verbose=True, 
             memory=chat_memory,
             output_key="character")
-        
         response = character_chain({"name":cast[0]['name'], "description":cast[0]['description'], "personality":cast[0]['personality'], "aesthetic":cast[0]['aesthetic'], "act":current_act, "user_input":prompt})
         content = response["character"]
+        isObjectiveMet = objective_evaluator.chain({
+            "last_messages":f"Human:{prompt} AI Character:{content}", 
+            "detailed_objective":current_objectives[0]
+            })
+        print("isObjectiveMet",isObjectiveMet['completion_status'])
+        if int(isObjectiveMet['completion_status']) > 50:
+            print('Objective Met!')
+            st.session_state['narrator_done'] = False
+            st.toast(f"Objective{current_objectives[0]} Met!")
+        else:
+            # content = f"Objective Not Met! {content}"
+            print("Objective Not Met!")
         st.session_state.messages.append(ChatMessage(role=f"{cast[0]['name']}", content=content))
         print('MEMORY',chat_memory)
-        

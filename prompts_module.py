@@ -23,7 +23,7 @@ act_template =  PromptTemplate(
 
 objective_template = PromptTemplate(
     input_variables=['acts'],
-    template="Write a list of objectives for each of these acts: {acts}. They should be actionable, important to the act, and drive the act forward to its conclusion. Output a JSON object"
+    template="Given these story acts: {acts}, write a list of specific, actionable objectives for each arc. Each objective should be a concrete task or action that a character can perform, directly contributing to the progression of the story. Focus on clear and direct activities, avoiding abstract or broad goals. The objectives should involve interaction with the game environment, other characters, or personal development in a tangible way. They should be small-scale and precise, guiding the player through distinct, achievable steps crucial to the narrative of each arc. Output a JSON object"
 )
 
 story_template = PromptTemplate(
