@@ -1,0 +1,114 @@
+{
+  "objectives_by_arc": [
+    {
+      "arc": "The Descent into the Abyss",
+      "objectives": [
+        {
+          "objective": "Map out a safe route through the treacherous terrain using environmental clues."
+        },
+        {
+          "objective": "Set up camp by clearing debris and constructing shelter."
+        },
+        {
+          "objective": "Collect soil, flora, and fauna samples from different areas for analysis."
+        },
+        {
+          "objective": "Use the collected samples to experiment and understand local anomalies."
+        },
+        {
+          "objective": "Invent a compass or device that works amidst the area's magnetic interference."
+        },
+        {
+          "objective": "Plan and execute a night-time mission to find a passable route in the canyon."
+        },
+        {
+          "objective": "Create a makeshift medical station using available resources."
+        },
+        {
+          "objective": "Overcome a personal fear, such as heights, to reach an important location."
+        },
+        {
+          "objective": "Translate ancient symbols found on a rock face to choose the correct path."
+        }
+      ]
+    },
+    {
+      "arc": "The Lurking Shadows",
+      "objectives": [
+        {
+          "objective": "Construct physical barriers and warning systems around the camp."
+        },
+        {
+          "objective": "Capture shadowy entities using traps or nets for study."
+        },
+        {
+          "objective": "Develop a light-emitting tool or torch that repels the shadows."
+        },
+        {
+          "objective": "Confront a manifestation of a character's past and resolve unfinished business."
+        },
+        {
+          "objective": "Identify the source of the shadow-induced affliction and concoct a remedy."
+        },
+        {
+          "objective": "Debate and choose whether to take a precarious shortcut or a longer safer route."
+        },
+        {
+          "objective": "Solve a puzzle involving the alignment of natural formations casting shadows."
+        }
+      ]
+    },
+    {
+      "arc": "The Invisible Cliff",
+      "objectives": [
+        {
+          "objective": "Coordinate a team to construct climbing gear specific to the cliff's challenges."
+        },
+        {
+          "objective": "Apply laws of physics to devise a way around gravity anomalies."
+        },
+        {
+          "objective": "Invent goggles or a visual aid to reveal and avoid invisible hazards."
+        },
+        {
+          "objective": "Engineer a device that can detect and map out the invisible barriers."
+        },
+        {
+          "objective": "Manage ration distribution to maintain the team's strength during the ascent."
+        },
+        {
+          "objective": "Guide a subgroup through a critical steep section showcasing leadership."
+        },
+        {
+          "objective": "Decrypt carvings in the cliffside that reveal a story of an ancient people."
+        }
+      ]
+    },
+    {
+      "arc": "The Revelation",
+      "objectives": [
+        {
+          "objective": "Compose a journal entry that reflects on the journey's moral dilemmas."
+        },
+        {
+          "objective": "Adjust the team's strategy after uncovering a game-changing truth."
+        },
+        {
+          "objective": "Uncover and present an artifact that reveals the mission's true objective."
+        },
+        {
+          "objective": "Hold a team meeting to decide who will make a potential sacrifice."
+        },
+        {
+          "objective": "Organize a group session to help team members process recent revelations."
+        },
+        {
+          "objective": "Renew vows of dedication to the mission in light of new information."
+        },
+        {
+          "objective": "Share Helen's diary entries that link her lineage to the ancient civilization."
+        }
+      ]
+    }
+  ]
+}

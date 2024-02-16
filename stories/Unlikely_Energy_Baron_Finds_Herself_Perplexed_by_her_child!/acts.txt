@@ -1,0 +1,89 @@
+{
+  "acts": [
+    {
+      "arc_title": "The Green Revolution Challenge",
+      "acts": [
+        {
+          "act_title": "Designing the Future",
+          "description": "Engage Leo Martinez in the conceptualization and design phase of the new renewable technology prototype."
+        },
+        {
+          "act_title": "Rallying Support",
+          "description": "Collaborate with Alex Sterling to organize a public unveiling event that attracts potential investors and early adopters."
+        },
+        {
+          "act_title": "Eco-Conscious Production",
+          "description": "Work with Evelyn Sterling to develop a plan for scaling up production that adheres to strict environmental standards."
+        }
+      ]
+    },
+    {
+      "arc_title": "The Corporate Espionage Crisis",
+      "acts": [
+        {
+          "act_title": "Securing the Fortress",
+          "description": "Graham Bellamy leads a meticulous internal review to identify vulnerabilities and potential insider threats."
+        },
+        {
+          "act_title": "Digital Fortification",
+          "description": "Under Graham Bellamy's guidance, enhance the company's cybersecurity measures to safeguard against espionage."
+        },
+        {
+          "act_title": "The Mole Hunt",
+          "description": "Outmaneuver Zara Hawkins by setting up strategic traps and counter-intelligence operations to expose the mole."
+        }
+      ]
+    },
+    {
+      "arc_title": "The Legacy Project",
+      "acts": [
+        {
+          "act_title": "Pillars of Legacy",
+          "description": "Evelyn Sterling takes charge in creating the foundation that will support the Legacy Project's initiatives."
+        },
+        {
+          "act_title": "Educating the Future",
+          "description": "Evelyn Sterling oversees the development of an innovative curriculum tailored to renewable energy technologies."
+        },
+        {
+          "act_title": "Roots in the Community",
+          "description": "Alex Sterling spearheads the initiative to integrate the educational centers with local communities for lasting impact."
+        }
+      ]
+    },
+    {
+      "arc_title": "The Underdog Alliance",
+      "acts": [
+        {
+          "act_title": "Uniting the Underdogs",
+          "description": "Evelyn Sterling is tasked with finding and convincing like-minded, smaller energy firms to form a strategic alliance."
+        },
+        {
+          "act_title": "Synergy and Strategy",
+          "description": "Leo Martinez leads the tough negotiations to ensure a fair and effective collaboration among the allied firms."
+        },
+        {
+          "act_title": "Fortifying Against the Foe",
+          "description": "Leo Martinez develops a robust defense plan to shield the alliance from hostile takeover attempts."
+        }
+      ]
+    },
+    {
+      "arc_title": "The Public Perception Shift",
+      "acts": [
+        {
+          "act_title": "Damage Control",
+          "description": "Graham Bellamy is at the helm to manage the fallout from the incident and mitigate its impact on public opinion."
+        },
+        {
+          "act_title": "A New Era of Openness",
+          "description": "Alex Sterling establishes new company-wide transparency measures to regain public trust."
+        },
+        {
+          "act_title": "Restoring the Brand",
+          "description": "Graham Bellamy directs a strategic initiative to rehabilitate the company's reputation and strengthen stakeholder relationships."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Star Wars: Echoes of the Unknown - Character Arcs",
+  "arcs": [
+    {
+      "name": "The Awakening",
+      "description": "Tal Riven's latent Force abilities are triggered by an ancient artifact, drawing the attention of both the resistance and the Empire.",
+      "impact_on_characters": {
+        "Tal Riven": "Confronts his past and begins to embrace his Force sensitivity.",
+        "Captain Lyra Vox": "Initially skeptical of the Force, she becomes a protector and ally to Tal.",
+        "D9-TA": "Provides critical information about the artifact's origins.",
+        "Kor Vant": "Sees an opportunity to use Tal's abilities to further undermine the Empire.",
+        "Zara Kiral": "Inspired by Tal's awakening, she intensifies her efforts within the resistance.",
+        "Xan Qen": "Emerges from seclusion to mentor Tal and guide him on his path.",
+        "Commander Vex": "Becomes obsessed with capturing Tal and unlocking the secrets of the artifact."
+      }
+    },
+    {
+      "name": "The Mercenary's Heart",
+      "description": "Captain Lyra Vox faces a moral dilemma when offered a lucrative contract that conflicts with her growing sympathy for the resistance.",
+      "impact_on_characters": {
+        "Tal Riven": "Challenges Lyra's mercenary ways, stirring a change in her convictions.",
+        "Captain Lyra Vox": "Reevaluates her priorities and ultimately joins the resistance.",
+        "D9-TA": "Acts as Lyra's moral compass, pushing her towards the right decision.",
+        "Kor Vant": "Respects Lyra's strategic skills and tries to recruit her for the resistance's cause.",
+        "Zara Kiral": "Admires Lyra's leadership and seeks to learn from her experience.",
+        "Xan Qen": "Remains neutral but offers wisdom that influences Lyra's choice.",
+        "Commander Vex": "Views Lyra's turmoil as an opportunity to exploit her crew's talents for the Empire."
+      }
+    },
+    {
+      "name": "The Lost Officer",
+      "description": "Kor Vant's past catches up with him when his former comrades in the Empire track him down, forcing him to confront his history and seek redemption.",
+      "impact_on_characters": {
+        "Tal Riven": "Supports Kor's quest for redemption, seeing parallels in their struggles.",
+        "Captain Lyra Vox": "Uses her resources to protect Kor from his past.",
+        "D9-TA": "Leverages its intelligence networks to assist Kor.",
+        "Kor Vant": "Must choose between his new allies and the chains of his past.",
+        "Zara Kiral": "Begins to trust Kor as he proves his loyalty to the resistance.",
+        "Xan Qen": "Provides guidance to Kor on the path of atonement.",
+        "Commander Vex": "Attempts to manipulate Kor's guilt to turn him back to the Empire."
+      }
+    },
+    {
+      "name": "The Beacon of Hope",
+      "description": "Zara Kiral spearheads a daring operation to ignite a galaxy-wide uprising against the Empire, testing her leadership and resolve.",
+      "impact_on_characters": {
+        "Tal Riven": "Becomes a symbol for the uprising, with his unique abilities inspiring hope.",
+        "Captain Lyra Vox": "Provides critical support with her ship's firepower and resources.",
+        "D9-TA": "Coordinates communications and logistics for the operation.",
+        "Kor Vant": "Offers strategic planning and intimate knowledge of Imperial tactics.",
+        "Zara Kiral": "Rises as a prominent figure in the resistance, facing the weight of leadership.",
+        "Xan Qen": "Shares ancient wisdom to bolster the morale of the resistance.",
+        "Commander Vex": "Takes a personal interest in crushing Zara's movement, seeing it as a threat to his career."
+      }
+    },
+    {
+      "name": "The Final Confrontation",
+      "description": "The protagonists engage in an epic battle against Commander Vex's forces, with the fate of the galaxy hanging in the balance.",
+      "impact_on_characters": {
+        "Tal Riven": "Fully realizes his potential as a Force user and faces Commander Vex in a climactic duel.",
+        "Captain Lyra Vox": "Leads an assault on the Imperial fleet, cementing her role as a resistance hero.",
+        "D9-TA": "Performs a critical sabotage mission on the Imperial flagship.",
+        "Kor Vant": "Confronts his former peers in a last stand against the Empire.",
+        "Zara Kiral": "Coordinates the resistance ground forces, becoming a beacon of hope for freedom.",
+        "Xan Qen": "Supports the protagonists through the Force, providing guidance and bolstering their powers.",
+        "Commander Vex": "Faces the full might of the resistance and the protagonists, ultimately meeting his downfall."
+      }
+    }
+  ]
+}

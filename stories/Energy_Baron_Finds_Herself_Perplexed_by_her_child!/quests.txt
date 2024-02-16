@@ -1,0 +1,80 @@
+{
+  "quest_lists": [
+    {
+      "arc_title": "The Crestwell Conundrum",
+      "quests": [
+        {
+          "title": "Shareholder Showdown",
+          "description": "Victoria must present a plan to appease the shareholders demanding greener practices, while maintaining the company's profitability."
+        },
+        {
+          "title": "Elias's Crusade",
+          "description": "Elias organizes and leads a protest that draws media attention, putting additional pressure on Victoria and the company."
+        },
+        {
+          "title": "Family Ties Tested",
+          "description": "Navigate the difficult conversation between Victoria and Elias, attempting to find common ground while their ideologies clash."
+        }
+      ]
+    },
+    {
+      "arc_title": "The Innovation Initiative",
+      "quests": [
+        {
+          "title": "The Prototype Pitch",
+          "description": "Lena must perfect her presentation and pitch the renewable energy prototype to key stakeholders in the company."
+        },
+        {
+          "title": "Forming the Front",
+          "description": "Elias and Lena work together to build support within the company for the new technology, facing skepticism and resistance."
+        },
+        {
+          "title": "Securing the Seed",
+          "description": "Graham navigates the company's internal politics to secure initial funding for Lena's project, convincing his peers of its potential."
+        }
+      ]
+    },
+    {
+      "arc_title": "The Unlikely Alliance",
+      "quests": [
+        {
+          "title": "Exposing the Truth",
+          "description": "Miles must safely gather and verify incriminating evidence against Crestwell Energy without compromising his sources."
+        },
+        {
+          "title": "Risky Revelations",
+          "description": "Elias and Miles plan and execute the public leak of sensitive company information, weighing the personal and professional risks involved."
+        },
+        {
+          "title": "Damage Control",
+          "description": "In the aftermath of the leak, Victoria must craft and deliver a public statement that will shape the future of the company and her relationship with Elias."
+        }
+      ]
+    },
+    {
+      "arc_title": "The Green Transition",
+      "quests": [
+        {
+          "title": "The Green Declaration",
+          "description": "Victoria prepares and announces a comprehensive green initiative, signaling the company's commitment to sustainable practices."
+        },
+        {
+          "title": "New Guard, New Goals",
+          "description": "Elias campaigns for and secures a position on the board of directors, pledging to uphold environmental standards."
+        },
+        {
+          "title": "Scale-Up Success",
+          "description": "Lena oversees the large-scale implementation of her technology, navigating the technical and logistical challenges."
+        },
+        {
+          "title": "Global Greening",
+          "description": "Graham works to forge international partnerships to fund and promote a worldwide clean energy initiative."
+        },
+        {
+          "title": "Vigilant Victory",
+          "description": "Miles writes a series of articles that critically yet positively cover the company's transition, maintaining public accountability."
+        }
+      ]
+    }
+  ]
+}

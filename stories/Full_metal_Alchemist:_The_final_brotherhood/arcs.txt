@@ -1,0 +1,29 @@
+{
+    "title": "Full Metal Alchemist: The Final Brotherhood",
+    "arcs": [
+        {
+            "name": "The Awakening of Eldric",
+            "description": "The team discovers Eldric as he emerges from a cryptic state of suspended animation. They must protect and aid him in reclaiming his memories, while unraveling the secret of his connection to the Elric brothers and facing off against a shadowy organization that seeks to exploit his powers for their own ends."
+        },
+        {
+            "name": "The Shadow Network",
+            "description": "Aria leads the group on a mission to infiltrate a hidden network of spies and informants to uncover a conspiracy that threatens the world. The team must blend stealth with alchemical prowess to dismantle the network from within, revealing a larger, more dangerous plot that binds them all."
+        },
+        {
+            "name": "The Golem Uprising",
+            "description": "Galen's past comes back to haunt him when his former creations, the iron golems, are turned against the brotherhood by a rival alchemist. The group must confront the ethical ramifications of Galen's past deeds while finding a way to stop the rampaging constructs before they wreak havoc."
+        },
+        {
+            "name": "The Healer's Dilemma",
+            "description": "Iris is confronted with a mysterious plague that resists her healing abilities, leading the team on a quest for a rare alchemical ingredient. Along the way, Iris must face her own past and the difficult choices that come with her powers, as the brotherhood races against time to save affected communities."
+        },
+        {
+            "name": "The Inferno of Rebellion",
+            "description": "Vance becomes the catalyst for a rebellion when a tyrannical ruler exploits alchemy for oppressive purposes. The brotherhood must navigate the fires of revolution and Vance's own turbulent spirit to bring about a new era of peace while keeping the flames of war from consuming everything they hold dear."
+        },
+        {
+            "name": "The Final Confrontation",
+            "description": "The culmination of their journeys, the team faces a battle on multiple fronts against a powerful cabal that has been manipulating events from the shadows. Each member must confront their personal demons and harness the full extent of their alchemical abilities to prevent a cataclysm that threatens to destroy the world."
+        }
+    ]
+}

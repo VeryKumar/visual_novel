@@ -1,0 +1,127 @@
+{
+  "acts": [
+    {
+      "arcTitle": "The Quest for the Holy Grail",
+      "acts": [
+        {
+          "actTitle": "The Call to Adventure",
+          "scenes": [
+            "Arthur's divine vision which instigates the quest for the Holy Grail."
+          ]
+        },
+        {
+          "actTitle": "The Road of Trials",
+          "scenes": [
+            "The individual challenges and personal trials faced by the knights in the enchanted forest."
+          ]
+        },
+        {
+          "actTitle": "The Approach to the Inmost Cave",
+          "scenes": [
+            "The approach and arrival at the Grail Castle, where the knights must confront and solve its riddles."
+          ]
+        },
+        {
+          "actTitle": "Temptation and Testing",
+          "scenes": [
+            "Lancelot's struggle with his own desires and the test of his virtue."
+          ]
+        },
+        {
+          "actTitle": "The Shadow's Gambit",
+          "scenes": [
+            "Morgana's attempt to seize the Grail and the ensuing pivotal battle."
+          ]
+        },
+        {
+          "actTitle": "The Ultimate Revelation",
+          "scenes": [
+            "The unveiling of the Grail's true meaning and purpose to the knights."
+          ]
+        }
+      ]
+    },
+    {
+      "arcTitle": "The Siege of Camelot",
+      "acts": [
+        {
+          "actTitle": "The Inciting Incident",
+          "scenes": [
+            "The betrayal that leads to the siege of Camelot."
+          ]
+        },
+        {
+          "actTitle": "Rallying the Forces",
+          "scenes": [
+            "Arthur's and Guinevere's efforts to gather allies for the defense of Camelot."
+          ]
+        },
+        {
+          "actTitle": "The Wizard's Ward",
+          "scenes": [
+            "Merlin casting protective spells around Camelot as the siege takes shape."
+          ]
+        },
+        {
+          "actTitle": "The Cavalry's Charge",
+          "scenes": [
+            "Lancelot's heroic attack against the besiegers to change the course of the siege."
+          ]
+        },
+        {
+          "actTitle": "The Turncoat's Dilemma",
+          "scenes": [
+            "Morgana's inner conflict and the choice she faces that can sway the outcome of the siege."
+          ]
+        },
+        {
+          "actTitle": "The Decisive Battle",
+          "scenes": [
+            "The final confrontation that decides Camelot's fate."
+          ]
+        }
+      ]
+    },
+    {
+      "arcTitle": "The Fall and Redemption of Camelot",
+      "acts": [
+        {
+          "actTitle": "The Exposure of Truth",
+          "scenes": [
+            "Revelations that put the solidarity of the Round Table in jeopardy."
+          ]
+        },
+        {
+          "actTitle": "Judgement and Consequence",
+          "scenes": [
+            "The trial of Lancelot and its implications for the kingdom's stability."
+          ]
+        },
+        {
+          "actTitle": "The Sorcerer's Farewell",
+          "scenes": [
+            "Merlin's departure from Camelot and the responsibility left to Arthur and his knights."
+          ]
+        },
+        {
+          "actTitle": "The Fratricidal Conflict",
+          "scenes": [
+            "The climactic battle between Arthur and Mordred at Camlann."
+          ]
+        },
+        {
+          "actTitle": "The Anti-Hero's Choice",
+          "scenes": [
+            "Morgana's moment of redemption in the aftermath of Camelot's tribulations."
+          ]
+        },
+        {
+          "actTitle": "The End of an Era",
+          "scenes": [
+            "Contemplation of Camelot's legacy by those who remain."
+          ]
+        }
+      ]
+    }
+  ]
+}

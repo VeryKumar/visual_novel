@@ -1,0 +1,136 @@
+{
+  "quests": [
+    {
+      "arc": "The Descent into the Abyss",
+      "checkpoints": [
+        {
+          "title": "Evelyn's Trial",
+          "description": "Lead the troupe through a series of environmental hazards to a safe campsite."
+        },
+        {
+          "title": "Beyond Explanation",
+          "description": "Investigate the unexplainable phenomena and collect samples for analysis."
+        },
+        {
+          "title": "Lila's New Path",
+          "description": "Devise alternative navigation methods to keep the troupe on course."
+        },
+        {
+          "title": "Jack's Leap of Faith",
+          "description": "Take a calculated risk to uncover a hidden passage within the canyon."
+        },
+        {
+          "title": "Mara's Inner Strength",
+          "description": "Set up an emergency medical station to treat the increasing injuries."
+        },
+        {
+          "title": "Theo's Rite of Passage",
+          "description": "Overcome a personal challenge that contributes to the team's progress."
+        },
+        {
+          "title": "Helen's Lore",
+          "description": "Decode the ancient artifacts found within the canyon to guide the troupe forward."
+        }
+      ]
+    },
+    {
+      "arc": "The Lurking Shadows",
+      "checkpoints": [
+        {
+          "title": "Evelyn's Vigilance",
+          "description": "Establish security measures to protect the troupe from the unknown threat."
+        },
+        {
+          "title": "Simon's Boundary",
+          "description": "Conduct experiments to determine the nature of the shadows."
+        },
+        {
+          "title": "Lila's Beacon",
+          "description": "Find a source of light to guide the troupe through the darkness."
+        },
+        {
+          "title": "Jack's Ghost",
+          "description": "Confront the shadow that takes a familiar form and uncover its secret."
+        },
+        {
+          "title": "Mara's Healing Touch",
+          "description": "Treat a shadow-inflicted wound that affects both body and mind."
+        },
+        {
+          "title": "Theo's Choice",
+          "description": "Make a difficult decision that will either unite or divide the group."
+        },
+        {
+          "title": "Helen's Interpretation",
+          "description": "Translate the cryptic messages and reveal the shadows' origin."
+        }
+      ]
+    },
+    {
+      "arc": "The Invisible Cliff",
+      "checkpoints": [
+        {
+          "title": "Evelyn's Climax",
+          "description": "Coordinate the team's efforts to scale the enigmatic cliff."
+        },
+        {
+          "title": "Simon's Analysis",
+          "description": "Apply scientific principles to navigate the cliff's anomalies."
+        },
+        {
+          "title": "Lila's Masterpiece",
+          "description": "Create an accurate representation of the cliff to assist climbers."
+        },
+        {
+          "title": "Jack's Inventiveness",
+          "description": "Devise a strategy to surmount the invisible barriers."
+        },
+        {
+          "title": "Mara's Endurance",
+          "description": "Provide critical care under extreme conditions during the ascent."
+        },
+        {
+          "title": "Theo's Leadership",
+          "description": "Take charge of a vital segment of the climb, demonstrating growth."
+        },
+        {
+          "title": "Helen's Revelation",
+          "description": "Uncover the ancient civilization's connection to the cliff."
+        }
+      ]
+    },
+    {
+      "arc": "The Revelation",
+      "checkpoints": [
+        {
+          "title": "Evelyn's Reckoning",
+          "description": "Reflect on the journey and the consequences of the troupe's actions."
+        },
+        {
+          "title": "Simon's Transformation",
+          "description": "Adapt to the new truths and rethink the mission's scientific basis."
+        },
+        {
+          "title": "Lila's Purpose",
+          "description": "Unveil the troupe's ultimate goal and embrace the wonder it brings."
+        },
+        {
+          "title": "Jack's Dilemma",
+          "description": "Choose between personal survival and the needs of the many."
+        },
+        {
+          "title": "Mara's Solace",
+          "description": "Offer emotional support as the team grapples with their discoveries."
+        },
+        {
+          "title": "Theo's Commitment",
+          "description": "Pledge to support the troupe's newfound cause."
+        },
+        {
+          "title": "Helen's Secret",
+          "description": "Reveal Helen's past and her deep connection to the cliff's legacy."
+        }
+      ]
+    }
+  ]
+}

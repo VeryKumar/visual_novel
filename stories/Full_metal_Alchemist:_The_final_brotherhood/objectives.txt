@@ -1,0 +1,274 @@
+{
+    "objectives": [
+        {
+            "questTitle": "The Cryptic Emergence",
+            "objectives": [
+                "Use a map to locate the exact position of the ancient crypt",
+                "Study old texts to understand the mechanism that seals the crypt",
+                "Perform a ritual to awaken Eldric without causing harm",
+                "Engage and repel any creatures or factions that approach the crypt"
+            ]
+        },
+        {
+            "questTitle": "The Memory Alchemy",
+            "objectives": [
+                "Visit the grand library and find the section on memory alchemy",
+                "Travel to remote areas to collect the rarest ingredients",
+                "Mix the ingredients and conduct the ritual alongside Eldric",
+                "Create a talisman to anchor Eldric's memories securely"
+            ]
+        },
+        {
+            "questTitle": "Shadows and Secrets",
+            "objectives": [
+                "Set traps or lay in wait to counter the assassins' attack",
+                "Visit taverns or markets to overhear gossip about the organization",
+                "Steal or intercept letters and decode them for information",
+                "Confront a member of the organization to uncover their plans"
+            ]
+        },
+        {
+            "questTitle": "Blood of the Elric",
+            "objectives": [
+                "Search the archives for genealogical records of the Elric family",
+                "Conduct blood tests and compare them with known alchemical substances",
+                "Find an ancient artifact or document that reveals the bloodline's importance",
+                "Erase or secure any evidence that could be used maliciously"
+            ]
+        },
+        {
+            "questTitle": "Power Unleashed",
+            "objectives": [
+                "Teach Eldric basic alchemical reactions and their uses",
+                "Set up controlled environments to test Eldric's power",
+                "Analyze the organization's past actions to anticipate future ones",
+                "Equip Eldric with tools and knowledge for the upcoming battle"
+            ]
+        },
+        {
+            "questTitle": "The Infiltration Initiation",
+            "objectives": [
+                "Forge documents and disguise kits for new identities",
+                "Attend a meeting or event held by the shadow network",
+                "Recruit a member of the shadow network to act as an informant",
+                "Copy or steal documents without raising suspicion"
+            ]
+        },
+        {
+            "questTitle": "Web of Deceit",
+            "objectives": [
+                "Follow or spy on a suspected high-ranking network member",
+                "Crack the code used in the network's messages",
+                "Convince an informant to grant access to restricted areas",
+                "Create a detailed chart of the hierarchy and roles within the organization"
+            ]
+        },
+        {
+            "questTitle": "Alchemical Espionage",
+            "objectives": [
+                "Invent a listening device or a potion that turns one invisible",
+                "Plant explosives or poisons to disrupt network activities",
+                "Blend in during missions to avoid drawing attention",
+                "Retrieve a document or overhear a conversation detailing the larger plot"
+            ]
+        },
+        {
+            "questTitle": "The Conspiracy Unveiled",
+            "objectives": [
+                "Combine clues and evidence to form a complete picture of the plot",
+                "Publicly disclose the network's intentions in a way that can't be ignored",
+                "Gather allies and resources to oppose the network's plans",
+                "Train and prepare for a likely retaliation from the network"
+            ]
+        },
+        {
+            "questTitle": "The Network's Fall",
+            "objectives": [
+                "Send messages to allies to coordinate a simultaneous attack",
+                "Infiltrate and disable key points of the network's infrastructure",
+                "Capture the network's leaders in a surprise raid",
+                "Collect and secure documents and evidence for legal proceedings"
+            ]
+        },
+        {
+            "questTitle": "The Iron March",
+            "objectives": [
+                "Ask locals and scouts for sightings and behaviors of golems",
+                "Study golem remains or sketches to find exploitable weaknesses",
+                "Draw up defense plans for villages and towns",
+                "Send troops or adventurers to protect strategic locations"
+            ]
+        },
+        {
+            "questTitle": "Galen's Redemption",
+            "objectives": [
+                "Guide Galen to places where his decisions had negative outcomes",
+                "Arrange meetings with those affected by Galen's actions",
+                "Fight off or negotiate with people seeking vengeance against Galen",
+                "Support Galen in facing the consequences and guilt of his past"
+            ]
+        },
+        {
+            "questTitle": "Heart of Iron",
+            "objectives": [
+                "Interrogate a captured golem maker or find a schematic of the core",
+                "Plan a stealthy approach to the core's location to avoid confrontation",
+                "Use non-lethal means to incapacitate golems guarding the core",
+                "Shut down the core using a specialized alchemical device"
+            ]
+        },
+        {
+            "questTitle": "The Rival's Challenge",
+            "objectives": [
+                "Gather intelligence on the rival's location and defenses",
+                "Issue a formal challenge using alchemical symbols",
+                "Engage in a public display of alchemical skill and wit",
+                "Claim the rival's alchemical equipment and resources"
+            ]
+        },
+        {
+            "questTitle": "Restoration and Peace",
+            "objectives": [
+                "Survey the damage and compile a report on the most affected areas",
+                "Organize work crews and distribute resources for rebuilding",
+                "Facilitate negotiations between warring factions",
+                "Convert golems to assist in construction and agricultural work"
+            ]
+        },
+        {
+            "questTitle": "The Plague's Puzzle",
+            "objectives": [
+                "Collect blood, saliva, and other samples from infected individuals",
+                "Use a microscope and alchemical reagents to study the disease",
+                "Follow a map to trace where the first cases of the plague appeared",
+                "Construct a theoretical framework for how the plague operates"
+            ]
+        },
+        {
+            "questTitle": "The Alchemist's Garden",
+            "objectives": [
+                "Use ancient maps and texts to plot a path to the garden",
+                "Defeat or evade mythical creatures protecting the garden",
+                "Carefully extract the ingredient without damaging the surrounding flora",
+                "Protect the ingredient from other alchemists who arrive to claim it"
+            ]
+        },
+        {
+            "questTitle": "Iris's Trial",
+            "objectives": [
+                "Accompany Iris to key locations from her past",
+                "Intercept attackers and provide protection for Iris",
+                "Help Iris communicate with people from her history",
+                "Train Iris to better control and understand her abilities"
+            ]
+        },
+        {
+            "questTitle": "The Healing Touch",
+            "objectives": [
+                "Set up a production line for the antidote with strict quality control",
+                "Deliver the antidote to clinics and makeshift hospitals",
+                "Offer hands-on healing to those in critical condition",
+                "Safeguard the antidote formula in a secure vault"
+            ]
+        },
+        {
+            "questTitle": "The Balance of Life",
+            "objectives": [
+                "Participate in a council to discuss the ethics of the cure",
+                "Help draft a charter on the responsible use of alchemy in medicine",
+                "Conduct workshops to educate people on disease prevention",
+                "Lay the foundation for a school of ethical alchemy"
+            ]
+        },
+        {
+            "questTitle": "The Spark Ignites",
+            "objectives": [
+                "Perform acts of kindness to gain the trust of the oppressed",
+                "Draft a manifesto outlining the rebellion's goals",
+                "Recruit artisans, strategists, and others with useful skills",
+                "Execute small-scale sabotage to disrupt the oppressors"
+            ]
+        },
+        {
+            "questTitle": "Alchemy of War",
+            "objectives": [
+                "Develop smoke bombs, flash powders, and other alchemical weapons",
+                "Hold training sessions for rebels to use the new weapons safely",
+                "Collect ingredients and materials required for a large stockpile",
+                "Test the weapons in controlled skirmishes to assess their effectiveness"
+            ]
+        },
+        {
+            "questTitle": "Vance's Vengeance",
+            "objectives": [
+                "Listen to Vance recount his experiences and motivations",
+                "Guide Vance's energy towards planning and preparation",
+                "Step in to prevent Vance from making impulsive decisions",
+                "Train Vance in specific tasks that will aid the rebellion"
+            ]
+        },
+        {
+            "questTitle": "The Tyrant's Fall",
+            "objectives": [
+                "Disguise as a servant or guard to get close to the tyrant",
+                "Plant misinformation and disrupt supply lines",
+                "Lead or participate in the decisive battle against the tyrant's forces",
+                "Capture the tyrant and secure the palace or government buildings"
+            ]
+        },
+        {
+            "questTitle": "Ashes to New Beginnings",
+            "objectives": [
+                "Collaborate with scholars and leaders to draft new laws",
+                "Organize work teams to clear rubble and rebuild homes",
+                "Set up town hall meetings to involve citizens in governance",
+                "Promote community events to foster unity and reconciliation"
+            ]
+        },
+        {
+            "questTitle": "Gathering Storm",
+            "objectives": [
+                "Send envoys to persuade former allies to rejoin the cause",
+                "Celebrate small victories with public events to raise spirits",
+                "Gather intelligence and map out the cabal's forces",
+                "Acquire weapons, potions, and other supplies for the final battle"
+            ]
+        },
+        {
+            "questTitle": "Demons Within",
+            "objectives": [
+                "Create a retreat space for team members to reflect and meditate",
+                "Be available to listen and provide counsel during tough times",
+                "Organize trust-building activities and group discussions",
+                "Celebrate personal milestones and achievements within the team"
+            ]
+        },
+        {
+            "questTitle": "Alchemical Apex",
+            "objectives": [
+                "Explore ancient ruins for lost knowledge of alchemy",
+                "Practice casting complex alchemical spells and reactions",
+                "Incorporate newly learned techniques into battle plans",
+                "Conduct a series of workshops to train the team in advanced alchemy"
+            ]
+        },
+        {
+            "questTitle": "The Shadow Cabal",
+            "objectives": [
+                "Disguise as a member of the cabal to gain access to their base",
+                "Sabotage the cabal's resources while keeping your identity hidden",
+                "Find and document proof of each member's involvement in the cabal",
+                "Collect incriminating evidence to present to authorities"
+            ]
+        },
+        {
+            "questTitle": "World's Edge",
+            "objectives": [
+                "Unite armies, mages, and other factions against the cabal",
+                "Lead the final charge against the cabal's stronghold",
+                "Outmaneuver the cabal's forces using superior tactics",
+                "Ensure the protection of civilians and critical infrastructure"
+            ]
+        }
+    ]
+}

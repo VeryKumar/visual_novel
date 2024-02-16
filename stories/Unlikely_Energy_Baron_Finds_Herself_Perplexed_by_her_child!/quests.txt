@@ -1,0 +1,104 @@
+{
+  "quests": [
+    {
+      "arc_title": "The Green Revolution Challenge",
+      "checkpoints": [
+        {
+          "quest_title": "Prototype Development",
+          "description": "Design and create a working prototype of the new renewable technology.",
+          "character_involved": "Leo Martinez"
+        },
+        {
+          "quest_title": "Public Presentation",
+          "description": "Unveil the innovation to the world and secure early adopters and investors.",
+          "character_involved": "Alex Sterling"
+        },
+        {
+          "quest_title": "Sustainable Scaling",
+          "description": "Ensure the production of the technology is scaled sustainably without compromising environmental ethics.",
+          "character_involved": "Evelyn Sterling"
+        }
+      ]
+    },
+    {
+      "arc_title": "The Corporate Espionage Crisis",
+      "checkpoints": [
+        {
+          "quest_title": "Internal Sweep",
+          "description": "Conduct a thorough investigation within the company to find the source of the leaks.",
+          "character_involved": "Graham Bellamy"
+        },
+        {
+          "quest_title": "Data Security Reinforcement",
+          "description": "Upgrade security systems and protocols to prevent further sabotage.",
+          "character_involved": "Graham Bellamy"
+        },
+        {
+          "quest_title": "Counter-Intelligence",
+          "description": "Set traps to catch the mole, while navigating the misinformation spread by Zara Hawkins.",
+          "character_involved": "Zara Hawkins"
+        }
+      ]
+    },
+    {
+      "arc_title": "The Legacy Project",
+      "checkpoints": [
+        {
+          "quest_title": "Foundation Establishment",
+          "description": "Lay the groundwork for the Legacy Project by establishing a nonprofit arm of the company.",
+          "character_involved": "Evelyn Sterling"
+        },
+        {
+          "quest_title": "Educational Program Development",
+          "description": "Develop a comprehensive curriculum focused on renewable energy and innovation for the educational centers.",
+          "character_involved": "Evelyn Sterling"
+        },
+        {
+          "quest_title": "Community Outreach",
+          "description": "Engage with local communities and schools to integrate the educational centers and foster grassroots support.",
+          "character_involved": "Alex Sterling"
+        }
+      ]
+    },
+    {
+      "arc_title": "The Underdog Alliance",
+      "checkpoints": [
+        {
+          "quest_title": "Alliance Building",
+          "description": "Identify and persuade smaller energy firms to join forces against the hostile takeover.",
+          "character_involved": "Evelyn Sterling"
+        },
+        {
+          "quest_title": "Joint Venture Negotiations",
+          "description": "Work out the details of how the alliance will operate and share resources effectively.",
+          "character_involved": "Leo Martinez"
+        },
+        {
+          "quest_title": "Defensive Strategy",
+          "description": "Develop and implement a plan to protect the companies involved from Zara's aggressive tactics.",
+          "character_involved": "Leo Martinez"
+        }
+      ]
+    },
+    {
+      "arc_title": "The Public Perception Shift",
+      "checkpoints": [
+        {
+          "quest_title": "Crisis Management",
+          "description": "Formulate a response to the incident that aligns with the company’s values and addresses public concerns.",
+          "character_involved": "Graham Bellamy"
+        },
+        {
+          "quest_title": "Transparency Protocol",
+          "description": "Establish new protocols for transparency that satisfy the demands of the public and activists.",
+          "character_involved": "Alex Sterling"
+        },
+        {
+          "quest_title": "Reputation Recovery Campaign",
+          "description": "Launch a campaign to rebuild trust and restore the company's image in the eyes of the public and stakeholders.",
+          "character_involved": "Graham Bellamy"
+        }
+      ]
+    }
+  ]
+}

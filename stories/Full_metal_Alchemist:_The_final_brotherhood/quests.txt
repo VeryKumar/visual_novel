@@ -1,0 +1,155 @@
+{
+    "title": "Full Metal Alchemist: The Final Brotherhood",
+    "arcs": [
+        {
+            "name": "The Awakening of Eldric",
+            "quests": [
+                {
+                    "title": "The Cryptic Emergence",
+                    "description": "Locate the ancient crypt where Eldric is said to emerge and ensure his safe awakening."
+                },
+                {
+                    "title": "The Memory Alchemy",
+                    "description": "Assist Eldric in performing alchemical rites to recover fragments of his lost memories."
+                },
+                {
+                    "title": "Shadows and Secrets",
+                    "description": "Defend Eldric from the shadowy organization's first wave of attacks and uncover their motives."
+                },
+                {
+                    "title": "Blood of the Elric",
+                    "description": "Discover the true nature of Eldric's connection to the Elric brothers through historical research and alchemical experimentation."
+                },
+                {
+                    "title": "Power Unleashed",
+                    "description": "Protect Eldric as he learns to control his newfound powers and prepares for a showdown with the organization."
+                }
+            ]
+        },
+        {
+            "name": "The Shadow Network",
+            "quests": [
+                {
+                    "title": "The Infiltration Initiation",
+                    "description": "Gain access to the shadow network by assuming false identities and gathering intelligence."
+                },
+                {
+                    "title": "Web of Deceit",
+                    "description": "Unravel the web of lies and deceit within the network by turning informants and decrypting coded messages."
+                },
+                {
+                    "title": "Alchemical Espionage",
+                    "description": "Use alchemy to stealthily sabotage the network's operations without blowing the team's cover."
+                },
+                {
+                    "title": "The Conspiracy Unveiled",
+                    "description": "Expose the larger plot that the network is involved in and prepare to combat the emerging threat."
+                },
+                {
+                    "title": "The Network's Fall",
+                    "description": "Launch a coordinated strike to dismantle the network and capture its leaders."
+                }
+            ]
+        },
+        {
+            "name": "The Golem Uprising",
+            "quests": [
+                {
+                    "title": "The Iron March",
+                    "description": "Investigate the source of the golem uprising and plan a defensive strategy."
+                },
+                {
+                    "title": "Galen's Redemption",
+                    "description": "Help Galen confront his past and seek forgiveness from those harmed by his creations."
+                },
+                {
+                    "title": "Heart of Iron",
+                    "description": "Search for the core alchemical component that controls the golems and devise a way to deactivate them."
+                },
+                {
+                    "title": "The Rival's Challenge",
+                    "description": "Face off against the rival alchemist who usurped control of the golems and reclaim Galen's legacy."
+                },
+                {
+                    "title": "Restoration and Peace",
+                    "description": "Repair the damage caused by the golems and restore peace to the affected regions."
+                }
+            ]
+        },
+        {
+            "name": "The Healer's Dilemma",
+            "quests": [
+                {
+                    "title": "The Plague's Puzzle",
+                    "description": "Gather information about the mysterious plague and begin researching a cure."
+                },
+                {
+                    "title": "The Alchemist's Garden",
+                    "description": "Embark on a journey to locate the rare alchemical ingredient needed for the antidote."
+                },
+                {
+                    "title": "Iris's Trial",
+                    "description": "Support Iris as she faces the dark aspects of her past and the implications of her powers."
+                },
+                {
+                    "title": "The Healing Touch",
+                    "description": "Distribute the antidote and heal the afflicted while safeguarding the secrets of the cure."
+                },
+                {
+                    "title": "The Balance of Life",
+                    "description": "Contemplate the ethical consequences of alchemical healing and establish protocols to prevent future outbreaks."
+                }
+            ]
+        },
+        {
+            "name": "The Inferno of Rebellion",
+            "quests": [
+                {
+                    "title": "The Spark Ignites",
+                    "description": "Join forces with the oppressed citizens and begin planning the rebellion."
+                },
+                {
+                    "title": "Alchemy of War",
+                    "description": "Craft alchemical weapons and tools to aid the rebels in their fight against tyranny."
+                },
+                {
+                    "title": "Vance's Vengeance",
+                    "description": "Guide Vance through his personal turmoil and ensure his passion fuels the cause, not destruction."
+                },
+                {
+                    "title": "The Tyrant's Fall",
+                    "description": "Lead a decisive battle to overthrow the tyrant and liberate the people."
+                },
+                {
+                    "title": "Ashes to New Beginnings",
+                    "description": "Help establish a just government and rebuild society from the ashes of the old regime."
+                }
+            ]
+        },
+        {
+            "name": "The Final Confrontation",
+            "quests": [
+                {
+                    "title": "Gathering Storm",
+                    "description": "Unite allies and rally the team's spirits in preparation for the impending battle."
+                },
+                {
+                    "title": "Demons Within",
+                    "description": "Assist each team member in facing and overcoming their personal demons to strengthen their resolve."
+                },
+                {
+                    "title": "Alchemical Apex",
+                    "description": "Master the ultimate alchemical techniques necessary for the fight against the cabal."
+                },
+                {
+                    "title": "The Shadow Cabal",
+                    "description": "Penetrate the cabal's defenses and expose its members to the world."
+                },
+                {
+                    "title": "World's Edge",
+                    "description": "Engage in an epic confrontation to thwart the cabal's cataclysmic plan and save the world."
+                }
+            ]
+        }
+    ]
+}

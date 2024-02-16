@@ -1,0 +1,110 @@
+{
+  "arc_objectives": [
+    {
+      "arc_name": "The Awakening",
+      "objectives": [
+        {
+          "objective": "Explore the ruins and locate the ancient artifact."
+        },
+        {
+          "objective": "Use stealth and evasion tactics to escape Imperial forces."
+        },
+        {
+          "objective": "Encounter and recruit Captain Lyra Vox to your cause."
+        },
+        {
+          "objective": "Assist the droid D9-TA in decrypting the artifact's data."
+        },
+        {
+          "objective": "Search for and convince Xan Qen to become Tal's mentor."
+        },
+        {
+          "objective": "Prepare and survive a battle against Commander Vex and his troops."
+        }
+      ]
+    },
+    {
+      "arc_name": "The Mercenary's Heart",
+      "objectives": [
+        {
+          "objective": "Evaluate the consequences of accepting or rejecting the offer."
+        },
+        {
+          "objective": "Engage in dialogue with D9-TA to reflect on your choices."
+        },
+        {
+          "objective": "Attend a secret meeting with Kor Vant from the resistance."
+        },
+        {
+          "objective": "Participate in a philosophical discussion with Xan Qen."
+        },
+        {
+          "objective": "Make a definitive choice about aligning with the resistance."
+        }
+      ]
+    },
+    {
+      "arc_name": "The Lost Officer",
+      "objectives": [
+        {
+          "objective": "Confront Kor's former Imperial colleagues to gain closure."
+        },
+        {
+          "objective": "Undertake a dangerous mission to prove loyalty to the resistance."
+        },
+        {
+          "objective": "Cooperate with D9-TA to gather and analyze crucial intelligence."
+        },
+        {
+          "objective": "Seek out spiritual advice from Xan Qen on overcoming past trauma."
+        },
+        {
+          "objective": "Devise and execute a plan to evade Commander Vex's trap."
+        }
+      ]
+    },
+    {
+      "arc_name": "The Beacon of Hope",
+      "objectives": [
+        {
+          "objective": "Aid Zara Kiral in executing a high-profile act of rebellion."
+        },
+        {
+          "objective": "Embrace the role of a leader and inspire others to join the cause."
+        },
+        {
+          "objective": "Allocate your ship's weapons and supplies to support resistance fighters."
+        },
+        {
+          "objective": "Use Kor's strategic insights to outmaneuver Imperial forces."
+        },
+        {
+          "objective": "Prepare defenses against Commander Vex's impending attack."
+        }
+      ]
+    },
+    {
+      "arc_name": "The Final Confrontation",
+      "objectives": [
+        {
+          "objective": "Rally allies and resources for the final stand against the Empire."
+        },
+        {
+          "objective": "Infiltrate the Imperial fleet with D9-TA to set up sabotage operations."
+        },
+        {
+          "objective": "Lead a space battle, utilizing tactical acumen and combat skills."
+        },
+        {
+          "objective": "Engage in a personal duel with Commander Vex, using all learned skills."
+        },
+        {
+          "objective": "Coordinate with Xan Qen to harness the Force during the final battle."
+        },
+        {
+          "objective": "Ensure the successful execution of the plan to overthrow the Empire."
+        }
+      ]
+    }
+  ]
+}

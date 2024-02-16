@@ -1,0 +1,190 @@
+{
+  "title": "King Arthur's Troop",
+  "description": "An epic narrative of loyalty, bravery, and destiny in the age of King Arthur and the Knights of the Round Table. The story unfolds across three dramatic arcs, each presenting unique challenges and quests that test the mettle of the characters and the strength of Camelot.",
+  "arcs": [
+    {
+      "arcId": "arc1",
+      "title": "The Quest for the Holy Grail",
+      "description": "Arthur and his knights embark on a divine quest to find the Holy Grail, said to grant eternal life and heavenly favor to those who behold it. Along the journey, each character faces trials that test their virtues and reveal deeper aspects of their personalities.",
+      "quests": [
+        {
+          "questId": "quest1_arc1",
+          "title": "The Call to Adventure",
+          "acts": [
+            {
+              "actId": "act1_quest1_arc1",
+              "title": "The Hermit's Guidance",
+              "objectives": [
+                "Locate and speak with the hermit who can interpret Arthur's vision.",
+                "Gather the knights at the Round Table to announce the quest."
+              ]
+            },
+            {
+              "actId": "act2_quest1_arc1",
+              "title": "The Enchanted Forest",
+              "objectives": [
+                "Navigate through the enchanted forest, avoiding magical traps.",
+                "Defeat the spectral guardian blocking the path."
+              ]
+            },
+            {
+              "actId": "act3_quest1_arc1",
+              "title": "The Grail Castle's Challenge",
+              "objectives": [
+                "Find the hidden entrance to the Grail Castle.",
+                "Solve the riddle posed by the castle's gatekeeper."
+              ]
+            }
+          ]
+        },
+        {
+          "questId": "quest2_arc1",
+          "title": "Temptation and Testing",
+          "acts": [
+            {
+              "actId": "act1_quest2_arc1",
+              "title": "The Illusionary Gauntlet",
+              "objectives": [
+                "Resist the illusionary temptations conjured by the Grail's defenses.",
+                "Help Lancelot complete a ritual of purification."
+              ]
+            },
+            {
+              "actId": "act2_quest2_arc1",
+              "title": "Morgana's Shadow Army",
+              "objectives": [
+                "Protect the Grail from Morgana's forces in a skirmish.",
+                "Retrieve the stolen Grail artifact from Morgana's lieutenant."
+              ]
+            },
+            {
+              "actId": "act3_quest2_arc1",
+              "title": "The Revelation",
+              "objectives": [
+                "Assemble the knights to witness the Grail's revelation.",
+                "Record the Grail's wisdom in the annals of Camelot."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "arcId": "arc2",
+      "title": "The Siege of Camelot",
+      "description": "A coalition of rogue knights and foreign invaders lay siege to Camelot, forcing Arthur and his loyal followers to defend the city and the ideals for which it stands.",
+      "quests": [
+        {
+          "questId": "quest1_arc2",
+          "title": "The Betrayal Uncovered",
+          "acts": [
+            {
+              "actId": "act1_quest1_arc2",
+              "title": "The Seeds of Treason",
+              "objectives": [
+                "Investigate the source of the betrayal.",
+                "Fortify Camelot's defenses in preparation for the siege."
+              ]
+            },
+            {
+              "actId": "act2_quest1_arc2",
+              "title": "Unity Against Siege",
+              "objectives": [
+                "Send envoys to neighboring lands to request aid.",
+                "Train the local militia to bolster Camelot's army."
+              ]
+            },
+            {
+              "actId": "act3_quest1_arc2",
+              "title": "Merlin's Magic",
+              "objectives": [
+                "Gather rare ingredients for Merlin's protective spells.",
+                "Assist Merlin in the casting of the protective ward."
+              ]
+            }
+          ]
+        },
+        {
+          "questId": "quest2_arc2",
+          "title": "The Final Stand",
+          "acts": [
+            {
+              "actId": "act1_quest2_arc2",
+              "title": "Lancelot's Leadership",
+              "objectives": [
+                "Organize Lancelot's cavalry unit for a surprise sortie.",
+                "Lead the charge to break the siege line."
+              ]
+            },
+            {
+              "actId": "act2_quest2_arc2",
+              "title": "Morgana's Allegiance",
+              "objectives": [
+                "Confront Morgana and present evidence of Camelot's worth.",
+                "Persuade Morgana to abandon her allegiance with the besiegers."
+              ]
+            },
+            {
+              "actId": "act3_quest2_arc2",
+              "title": "Camelot's Fate",
+              "objectives": [
+                "Coordinate with Arthur to launch a full-scale attack.",
+                "Capture the enemy leader to end the siege."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterId": "char1",
+      "name": "Arthur Pendragon",
+      "role": "King of Camelot",
+      "description": "The young and noble King of Camelot, chosen by destiny to wield the magical sword Excalibur and unite the lands."
+    },
+    {
+      "characterId": "char2",
+      "name": "Merlin Ambrosius",
+      "role": "Wizard and Mentor",
+      "description": "The enigmatic and wise wizard who serves as Arthur's mentor. Merlin's origins and age are shrouded in mystery."
+    },
+    {
+      "characterId": "char3",
+      "name": "Guinevere Leodegrance",
+      "role": "Queen of Camelot",
+      "description": "The compassionate and diplomatic Queen of Camelot, and Arthur's beloved wife. Guinevere is known for her beauty and kindness."
+    },
+    {
+      "characterId": "char4",
+      "name": "Lancelot du Lac",
+      "role": "Knight of the Round Table",
+      "description": "The most skilled and gallant knight of the Round Table, known for his exceptional prowess in battle and his unwavering honor."
+    },
+    {
+      "characterId": "char5",
+      "name": "Morgana le Fay",
+      "role": "Sorceress",
+      "description": "A powerful sorceress and half-sister to Arthur, Morgana is torn between her familial ties and her ambition for power."
+    },
+    {
+      "characterId": "char6",
+      "name": "Gawain",
+      "role": "Knight of the Round Table",
+      "description": "A noble knight of the Round Table and nephew to King Arthur. Gawain is known for his strength, valor, and fiery temper."
+    },
+    {
+      "characterId": "char7",
+      "name": "Elaine of Astolat",
+      "role": "Maiden",
+      "description": "A maiden who harbors a deep and unrequited love for Sir Lancelot. Elaine is known for her beauty and tragic fate."
+    }
+  ],
+  "currentState": {
+    "currentArcId": "arc1",
+    "currentQuestId": "quest1_arc1",
+    "currentActId": "act1_quest1_arc1",
+    "goalStatuses": {}
+  }
+}

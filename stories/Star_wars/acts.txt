@@ -1,0 +1,137 @@
+{
+  "acts": [
+    {
+      "arc_name": "The Awakening",
+      "acts": [
+        {
+          "act_title": "Discovery of the Artifact",
+          "description": "Tal Riven finds the artifact and begins to realize his Force potential."
+        },
+        {
+          "act_title": "Fleeing the Imperial Forces",
+          "description": "Tal narrowly escapes the clutches of the Empire and meets Captain Lyra Vox."
+        },
+        {
+          "act_title": "Vox's Internal Struggle",
+          "description": "Lyra wrestles with her mercenary instincts versus the need to protect Tal."
+        },
+        {
+          "act_title": "Deciphering the Data",
+          "description": "The team relies on D9-TA to unlock the secrets held within the ancient artifact."
+        },
+        {
+          "act_title": "Finding the Mentor",
+          "description": "The search for Xan Qen is successful, and he is persuaded to train Tal."
+        },
+        {
+          "act_title": "Confrontation with Commander Vex",
+          "description": "Tal and his allies survive their first encounter with the Empire's Commander Vex."
+        }
+      ]
+    },
+    {
+      "arc_name": "The Mercenary's Heart",
+      "acts": [
+        {
+          "act_title": "Vox's Dilemma",
+          "description": "Lyra faces a difficult decision when presented with a lucrative but betraying offer."
+        },
+        {
+          "act_title": "D9-TA's Influence",
+          "description": "The droid subtly nudges Lyra to consider the greater good over profit."
+        },
+        {
+          "act_title": "The Resistance's Persuasion",
+          "description": "Kor Vant attempts to convince Lyra of the resistance's noble cause."
+        },
+        {
+          "act_title": "Xan Qen's Wisdom",
+          "description": "The mentor shares his philosophy with Lyra, helping her to see a different path."
+        },
+        {
+          "act_title": "Lyra's Choice",
+          "description": "Lyra makes the pivotal decision that will shape her future and that of her crew."
+        }
+      ]
+    },
+    {
+      "arc_name": "The Lost Officer",
+      "acts": [
+        {
+          "act_title": "Confronting the Past",
+          "description": "Kor is forced to deal with the ghosts of his Imperial past."
+        },
+        {
+          "act_title": "Loyalty Mission",
+          "description": "To prove his dedication to the resistance, Kor undertakes a perilous task."
+        },
+        {
+          "act_title": "Intelligence Support",
+          "description": "D9-TA leverages its networks to assist Kor in his redemptive journey."
+        },
+        {
+          "act_title": "Seeking Guidance",
+          "description": "Kor receives spiritual counsel from Xan Qen about facing his past."
+        },
+        {
+          "act_title": "Evading the Trap",
+          "description": "The team must outsmart Commander Vex's scheme to leverage Kor's guilt."
+        }
+      ]
+    },
+    {
+      "arc_name": "The Beacon of Hope",
+      "acts": [
+        {
+          "act_title": "Igniting the Uprising",
+          "description": "Zara Kiral orchestrates the first spark to ignite the rebellion."
+        },
+        {
+          "act_title": "Becoming the Symbol",
+          "description": "Tal steps into the role of the inspirational figurehead for the movement."
+        },
+        {
+          "act_title": "Providing the Firepower",
+          "description": "Lyra commits her ship's resources to the resistance's operations."
+        },
+        {
+          "act_title": "Strategic Mastery",
+          "description": "Kor's knowledge of Imperial tactics becomes crucial for the resistance."
+        },
+        {
+          "act_title": "Thwarting the Commander",
+          "description": "The resistance prepares for and resists Commander Vex's crushing response."
+        }
+      ]
+    },
+    {
+      "arc_name": "The Final Confrontation",
+      "acts": [
+        {
+          "act_title": "Amassing the Forces",
+          "description": "Allies across the galaxy come together for the final battle against the Empire."
+        },
+        {
+          "act_title": "Imperial Sabotage",
+          "description": "D9-TA's mission is critical in weakening the Imperial fleet from within."
+        },
+        {
+          "act_title": "Leading the Charge",
+          "description": "Lyra takes the helm in a daring assault on the Empire's forces."
+        },
+        {
+          "act_title": "Destined Duel",
+          "description": "Tal faces off against Commander Vex in a battle that will decide the galaxy's fate."
+        },
+        {
+          "act_title": "Guided by the Force",
+          "description": "Xan Qen provides mystical support during the climax of the conflict."
+        },
+        {
+          "act_title": "Toppling the Tyranny",
+          "description": "The combined effort of the resistance brings about the fall of the Empire."
+        }
+      ]
+    }
+  ]
+}

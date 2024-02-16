@@ -1,0 +1,211 @@
+{
+  "title": "King Arthur: The Quest for Unity",
+  "description": "An epic tale that chronicles the legendary endeavors of King Arthur and his knights in the pursuit of justice, honor, and unity.",
+  "arcs": [
+    {
+      "arcId": "arc1",
+      "title": "The Rise of Camelot",
+      "description": "This arc witnesses the ascension of Arthur, the formation of the Round Table, and Merlin's guiding hand.",
+      "quests": [
+        {
+          "questId": "quest1_arc1",
+          "title": "Proving the Birthright",
+          "acts": [
+            {
+              "actId": "act1_quest1_arc1",
+              "title": "The Challenge Announced",
+              "objectives": [
+                "Gather the citizens of Camelot to the grand assembly.",
+                "Approach the sword in the stone as Arthur.",
+                "Attempt to pull Excalibur from the stone."
+              ]
+            },
+            {
+              "actId": "act2_quest1_arc1",
+              "title": "Arthur's Trial",
+              "objectives": [
+                "Approach the sword in the stone as Arthur.",
+                "Attempt to pull Excalibur from the stone.",
+                "Successfully retrieve Excalibur to demonstrate Arthur's claim to the throne."
+              ]
+            },
+            {
+              "actId": "act3_quest1_arc1",
+              "title": "The Sword's Release",
+              "objectives": [
+                "Attempt to pull Excalibur from the stone.",
+                "Successfully retrieve Excalibur to demonstrate Arthur's claim to the throne."
+              ]
+            }
+          ]
+        },
+        {
+          "questId": "quest2_arc1",
+          "title": "The Formation of the Round Table",
+          "acts": [
+            {
+              "actId": "act1_quest2_arc1",
+              "title": "Designing the Round Table",
+              "objectives": [
+                "Collect materials for the construction of the Round Table.",
+                "Commission a carpenter to design and build the Round Table."
+              ]
+            },
+            {
+              "actId": "act2_quest2_arc1",
+              "title": "The Gathering of Knights",
+              "objectives": [
+                "Send out invitations to noble knights across the land.",
+                "Hold a ceremony where knights take the Oath of Chivalry around the Round Table."
+              ]
+            },
+            {
+              "actId": "act3_quest2_arc1",
+              "title": "The Oath of Chivalry",
+              "objectives": [
+                "Hold a ceremony where knights take the Oath of Chivalry around the Round Table."
+              ]
+            }
+          ]
+        },
+        {
+          "questId": "quest3_arc1",
+          "title": "Merlin's Formative Guidance",
+          "acts": [
+            {
+              "actId": "act1_quest3_arc1",
+              "title": "Seeking the Sage",
+              "objectives": [
+                "Locate Merlin's dwelling and request his mentorship.",
+                "Accompany Merlin to the enchanted forest for training."
+              ]
+            },
+            {
+              "actId": "act2_quest3_arc1",
+              "title": "Wisdom in the Woods",
+              "objectives": [
+                "Complete a series of wisdom-based challenges set by Merlin.",
+                "Apply the learned wisdom to a decision affecting the kingdom."
+              ]
+            },
+            {
+              "actId": "act3_quest3_arc1",
+              "title": "The King's Enlightenment",
+              "objectives": [
+                "Apply the learned wisdom to a decision affecting the kingdom."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "arcId": "arc2",
+      "title": "Lancelot's Dilemma",
+      "description": "The arc delves into Lancelot's trials, his forbidden love, and the test of his loyalty to Arthur and Camelot.",
+      "quests": [
+        {
+          "questId": "quest1_arc2",
+          "title": "The Knight's Prowess",
+          "acts": [
+            {
+              "actId": "act1_quest1_arc2",
+              "title": "Challenge Accepted",
+              "objectives": [
+                "Enter Lancelot into a tournament to demonstrate his skill.",
+                "Win a series of jousting matches against other knights."
+              ]
+            },
+            {
+              "actId": "act2_quest1_arc2",
+              "title": "Triumphs of Valor",
+              "objectives": [
+                "Defeat a legendary beast to prove Lancelot's valor.",
+                "Receive the title of Champion from King Arthur."
+              ]
+            },
+            {
+              "actId": "act3_quest1_arc2",
+              "title": "Recognition of the Champion",
+              "objectives": [
+                "Receive the title of Champion from King Arthur."
+              ]
+            }
+          ]
+        },
+        {
+          "questId": "quest2_arc2",
+          "title": "Forbidden Love's Bloom",
+          "acts": [
+            {
+              "actId": "act1_quest2_arc2",
+              "title": "The Spark of Forbidden Love",
+              "objectives": [
+                "Arrange a secret meeting between Lancelot and Guinevere.",
+                "Steal a love token from the royal quarters as a sign of affection."
+              ]
+            },
+            {
+              "actId": "act2_quest2_arc2",
+              "title": "Secrets in the Shadows",
+              "objectives": [
+                "Avoid detection while meeting in secret locations.",
+                "Manage stress levels to prevent rumors from spreading."
+              ]
+            },
+            {
+              "actId": "act3_quest2_arc2",
+              "title": "The Burden of Concealment",
+              "objectives": [
+                "Manage stress levels to prevent rumors from spreading."
+              ]
+            }
+          ]
+        },
+        {
+          "questId": "quest3_arc2",
+          "title": "The Test of Loyalty",
+          "acts": [
+            {
+              "actId": "act1_quest3_arc2",
+              "title": "A Knight's Dilemma",
+              "objectives": [
+                "Choose between a mission for Arthur and a rendezvous with Guinevere.",
+                "Complete a quest that conflicts with Lancelot's personal desires."
+              ]
+            },
+            {
+              "actId": "act2_quest3_arc2",
+              "title": "The Trial of the Heart",
+              "objectives": [
+                "Confront the emotional turmoil of divided loyalties.",
+                "Make a decision that will impact Lancelot's standing in Camelot."
+              ]
+            },
+            {
+              "actId": "act3_quest3_arc2",
+              "title": "The Resolution",
+              "objectives": [
+                "Make a decision that will impact Lancelot's standing in Camelot."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterId": "char1",
+      "name": "Arthur",
+      "role": "King",
+      "description": "The rightful sovereign of Camelot, destined to unite the land."
+    }
+  ],
+  "currentState": {
+    "currentArcId": "arc1",
+    "currentQuestId": "quest1_arc1",
+    "currentActId": "act1_quest1_arc1",
+    "goalStatuses": {}
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "arcs": [
+    {
+      "arcTitle": "The Quest for the Holy Grail",
+      "objectives": [
+        {
+          "actTitle": "The Call to Adventure",
+          "objectives": [
+            "Locate and speak with the hermit who can interpret Arthur's vision.",
+            "Gather the knights at the Round Table to announce the quest."
+          ]
+        },
+        {
+          "actTitle": "The Road of Trials",
+          "objectives": [
+            "Navigate through the enchanted forest, avoiding magical traps.",
+            "Defeat the spectral guardian blocking the path."
+          ]
+        },
+        {
+          "actTitle": "The Approach to the Inmost Cave",
+          "objectives": [
+            "Find the hidden entrance to the Grail Castle.",
+            "Solve the riddle posed by the castle's gatekeeper."
+          ]
+        },
+        {
+          "actTitle": "Temptation and Testing",
+          "objectives": [
+            "Resist the illusionary temptations conjured by the Grail's defenses.",
+            "Help Lancelot complete a ritual of purification."
+          ]
+        },
+        {
+          "actTitle": "The Shadow's Gambit",
+          "objectives": [
+            "Protect the Grail from Morgana's forces in a skirmish.",
+            "Retrieve the stolen Grail artifact from Morgana's lieutenant."
+          ]
+        },
+        {
+          "actTitle": "The Ultimate Revelation",
+          "objectives": [
+            "Assemble the knights to witness the Grail's revelation.",
+            "Record the Grail's wisdom in the annals of Camelot."
+          ]
+        }
+      ]
+    },
+    {
+      "arcTitle": "The Siege of Camelot",
+      "objectives": [
+        {
+          "actTitle": "The Inciting Incident",
+          "objectives": [
+            "Investigate the source of the betrayal.",
+            "Fortify Camelot's defenses in preparation for the siege."
+          ]
+        },
+        {
+          "actTitle": "Rallying the Forces",
+          "objectives": [
+            "Send envoys to neighboring lands to request aid.",
+            "Train the local militia to bolster Camelot's army."
+          ]
+        },
+        {
+          "actTitle": "The Wizard's Ward",
+          "objectives": [
+            "Gather rare ingredients for Merlin's protective spells.",
+            "Assist Merlin in the casting of the protective ward."
+          ]
+        },
+        {
+          "actTitle": "The Cavalry's Charge",
+          "objectives": [
+            "Organize Lancelot's cavalry unit for a surprise sortie.",
+            "Lead the charge to break the siege line."
+          ]
+        },
+        {
+          "actTitle": "The Turncoat's Dilemma",
+          "objectives": [
+            "Confront Morgana and present evidence of Camelot's worth.",
+            "Persuade Morgana to abandon her allegiance with the besiegers."
+          ]
+        },
+        {
+          "actTitle": "The Decisive Battle",
+          "objectives": [
+            "Coordinate with Arthur to launch a full-scale attack.",
+            "Capture the enemy leader to end the siege."
+          ]
+        }
+      ]
+    },
+    {
+      "arcTitle": "The Fall and Redemption of Camelot",
+      "objectives": [
+        {
+          "actTitle": "The Exposure of Truth",
+          "objectives": [
+            "Uncover and present proof of the treachery within the Round Table.",
+            "Organize a council meeting to address the revelations."
+          ]
+        },
+        {
+          "actTitle": "Judgement and Consequence",
+          "objectives": [
+            "Arrange a fair trial for Lancelot.",
+            "Implement the verdict's consequences to maintain order."
+          ]
+        },
+        {
+          "actTitle": "The Sorcerer's Farewell",
+          "objectives": [
+            "Bid farewell to Merlin and secure his final advice.",
+            "Assume Merlin's advisory role to support Arthur."
+          ]
+        },
+        {
+          "actTitle": "The Fratricidal Conflict",
+          "objectives": [
+            "Mobilize Camelot's forces to confront Mordred's army.",
+            "Engage in combat with Mordred to protect Arthur."
+          ]
+        },
+        {
+          "actTitle": "The Anti-Hero's Choice",
+          "objectives": [
+            "Guide Morgana through a scenario that tests her loyalty.",
+            "Ensure Morgana aids Camelot's wounded in the battle's aftermath."
+          ]
+        },
+        {
+          "actTitle": "The End of an Era",
+          "objectives": [
+            "Collect the testimonies of the survivors about Camelot's legacy.",
+            "Erect a monument commemorating the fallen and the end of an era."
+          ]
+        }
+      ]
+    }
+  ]
+}

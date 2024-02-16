@@ -1,0 +1,40 @@
+{
+    "title": "Full Metal Alchemist: The Final Brotherhood",
+    "characters": [
+        {
+            "name": "Eldric Steelheart",
+            "persona": "The Lost Alchemist",
+            "description": "Eldric is a character with a mysterious past, who emerges as a key figure in the final struggle. His alchemy surpasses conventional understanding, allowing him to manipulate metals in unprecedented ways. He is rumored to be connected to the Elric brothers.",
+            "personality": "Eldric is solemn and introspective, often lost in thought. He carries the weight of his past mistakes and is determined to atone for them. His sense of justice is unwavering, and he is fiercely protective of those he considers his newfound family.",
+            "aesthetic": "Eldric has a rugged appearance, with long silver hair and piercing grey eyes. His attire consists of a custom-tailored coat with metallic embroidery that symbolizes his unique alchemical abilities. His presence is both imposing and enigmatic."
+        },
+        {
+            "name": "Aria Nox",
+            "persona": "The Shadow Binder",
+            "description": "Aria is a skilled alchemist who specializes in the manipulation of shadows. She acts as a covert operative for the final brotherhood, gathering intelligence and dispatching enemies from the darkness.",
+            "personality": "Aria is cunning and resourceful, with a sharp wit that she uses to mask her true feelings. She values her independence but finds a sense of belonging within the brotherhood. Her loyalty is hard-earned but unwavering once given.",
+            "aesthetic": "Aria's aesthetic is gothic and stealthy. She wears a fitted black outfit that blends into the night, with a cloak that seems to absorb the light around her. Her dark hair is contrasted by her pale skin, and her eyes glint with a mischievous spark."
+        },
+        {
+            "name": "Galen Rook",
+            "persona": "The Iron Sentinel",
+            "description": "A former military man turned alchemist, Galen is known for his ability to forge and animate iron golems. He provides the final brotherhood with both defensive and offensive support.",
+            "personality": "Galen is steadfast and disciplined, with a no-nonsense approach to life. He is a natural leader who inspires confidence in those around him. Despite his tough exterior, he has a soft spot for his comrades and a dry sense of humor.",
+            "aesthetic": "Galen is a towering figure with a muscular build. He often wears a partially unbuttoned military jacket with medals of honor, over a simple shirt and trousers. His short, cropped hair and square jawline give him a commanding presence."
+        },
+        {
+            "name": "Iris Flamel",
+            "persona": "The Healer's Touch",
+            "description": "Iris is a gentle soul with a profound mastery of alchemical healing. Her abilities are crucial to the survival of the final brotherhood, as she can mend both physical and spiritual wounds.",
+            "personality": "Iris is kind-hearted and empathetic, always putting the needs of others before her own. She possesses an inner strength that belies her delicate appearance. Her compassion extends to all living creatures, and she is a calming influence in the midst of chaos.",
+            "aesthetic": "Iris has a soft and ethereal look, with flowing robes in pastel colors that reflect her nurturing spirit. Her long, wavy hair is often adorned with flowers or crystals, and she carries a satchel filled with alchemical ingredients and elixirs."
+        },
+        {
+            "name": "Vance Ignis",
+            "persona": "The Flame Warden",
+            "description": "Vance is a fiery alchemist with the power to control and create fire. His volatile nature makes him a formidable combatant, and his passion fuels the final brotherhood's fight for justice.",
+            "personality": "Vance is impulsive and headstrong, often acting on instinct rather than reason. He has a fierce sense of loyalty and a burning desire to prove himself. His temper can be explosive, but he has a strong sense of honor and fairness.",
+            "aesthetic": "Vance sports a wild mane of red hair and a constant five o'clock shadow. He prefers battle-worn clothing with flame-resistant properties, often seen with gloves and boots singed at the edges. His charismatic grin is rarely without a smoldering intensity behind it."
+        }
+    ]
+}

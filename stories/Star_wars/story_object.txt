@@ -1,0 +1,136 @@
+{
+  "title": "Star Wars: Echoes of the Unknown",
+  "description": "A tale of rebellion and destiny, 'Star Wars: Echoes of the Unknown' follows the journey of Tal Riven, a Force-sensitive drifter, as he unites with a band of unlikely allies to challenge the might of the Empire and discover the true extent of his powers.",
+  "arcs": [
+    {
+      "arcId": "arc1",
+      "title": "The Awakening",
+      "description": "This arc follows Tal Riven as he discovers his connection to the Force, seeks out guidance, and forms a fragile alliance with those who stand against the Empire.",
+      "quests": [
+        {
+          "questId": "quest1_arc1",
+          "title": "The Triggering Artifact",
+          "acts": [
+            {
+              "actId": "act1_quest1_arc1",
+              "title": "Discovery of the Artifact",
+              "objectives": [
+                "Explore the ruins and locate the ancient artifact.",
+                "Use stealth and evasion tactics to escape Imperial forces.",
+                "Encounter and recruit Captain Lyra Vox to your cause."
+              ]
+            },
+            {
+              "actId": "act2_quest1_arc1",
+              "title": "Fleeing the Imperial Forces",
+              "objectives": [
+                "Assist the droid D9-TA in decrypting the artifact's data.",
+                "Search for and convince Xan Qen to become Tal's mentor.",
+                "Prepare and survive a battle against Commander Vex and his troops."
+              ]
+            },
+            {
+              "actId": "act3_quest1_arc1",
+              "title": "The Mentor's Guidance",
+              "objectives": [
+                "Assist the droid D9-TA in decrypting the artifact's data.",
+                "Search for and convince Xan Qen to become Tal's mentor.",
+                "Prepare and survive a battle against Commander Vex and his troops."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "arcId": "arc2",
+      "title": "The Mercenary's Heart",
+      "description": "Captain Lyra Vox faces a moral quandary that challenges her mercenary nature and leads her to a crossroads between personal gain and a greater cause.",
+      "quests": [
+        {
+          "questId": "quest1_arc2",
+          "title": "The Tempting Offer",
+          "acts": [
+            {
+              "actId": "act1_quest1_arc2",
+              "title": "Vox's Dilemma",
+              "objectives": [
+                "Evaluate the consequences of accepting or rejecting the offer.",
+                "Engage in dialogue with D9-TA to reflect on your choices.",
+                "Attend a secret meeting with Kor Vant from the resistance."
+              ]
+            },
+            {
+              "actId": "act2_quest1_arc2",
+              "title": "The Moral Compass",
+              "objectives": [
+                "Participate in a philosophical discussion with Xan Qen.",
+                "Make a definitive choice about aligning with the resistance."
+              ]
+            },
+            {
+              "actId": "act3_quest1_arc2",
+              "title": "The Resistance's New Ally",
+              "objectives": [
+                "Engage in dialogue with D9-TA to reflect on your choices.",
+                "Attend a secret meeting with Kor Vant from the resistance.",
+                "Participate in a philosophical discussion with Xan Qen.",
+                "Make a definitive choice about aligning with the resistance."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cast": [
+    {
+      "characterId": "char1",
+      "name": "Tal Riven",
+      "role": "Protagonist",
+      "description": "A mysterious Force-sensitive drifter from a forgotten world, seeking to understand his connection to the Force."
+    },
+    {
+      "characterId": "char2",
+      "name": "Captain Lyra Vox",
+      "role": "Ally",
+      "description": "The charismatic and unorthodox captain of a mercenary starship, the 'Silver Comet'."
+    },
+    {
+      "characterId": "char3",
+      "name": "D9-TA",
+      "role": "Sidekick",
+      "description": "An advanced protocol droid with a sharp tongue and a mysterious past."
+    },
+    {
+      "characterId": "char4",
+      "name": "Kor Vant",
+      "role": "Ally",
+      "description": "A defected Imperial officer who has turned to smuggling to undermine the Empire's efforts."
+    },
+    {
+      "characterId": "char5",
+      "name": "Zara Kiral",
+      "role": "Resistance Member",
+      "description": "A young, idealistic member of an underground resistance movement."
+    },
+    {
+      "characterId": "char6",
+      "name": "Xan Qen",
+      "role": "Mentor",
+      "description": "A reclusive alien sage with deep knowledge of the Force and ancient lore."
+    },
+    {
+      "characterId": "char7",
+      "name": "Commander Vex",
+      "role": "Antagonist",
+      "description": "A ruthless Imperial commander determined to crush the burgeoning resistance."
+    }
+  ],
+  "currentState": {
+    "currentArcId": "arc1",
+    "currentQuestId": "quest1_arc1",
+    "currentActId": "act1_quest1_arc1",
+    "goalStatuses": {}
+  }
+}

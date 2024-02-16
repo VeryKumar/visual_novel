@@ -1,0 +1,47 @@
+{
+    "title": "Star Wars: Echoes of the Unknown",
+    "characters": [
+        {
+            "name": "Tal Riven",
+            "description": "A mysterious Force-sensitive drifter from a forgotten world, seeking to understand his connection to the Force.",
+            "personality": "Quiet, introspective, and occasionally haunted by his past. Despite his reluctance to engage, he feels a deep responsibility to use his abilities for good.",
+            "aesthetic": "Wears a tattered cloak over rugged, durable clothing. His gear is a mix of scavenged technology and hand-crafted items, reflecting his resourcefulness."
+        },
+        {
+            "name": "Captain Lyra Vox",
+            "description": "The charismatic and unorthodox captain of a mercenary starship, the 'Silver Comet'.",
+            "personality": "Boisterous, fearless, and quick-witted. She is fiercely loyal to her crew and has a soft spot for underdogs.",
+            "aesthetic": "Adorns a well-worn pilot's jacket with various patches and insignia from past missions. Her attire is practical but with a flair that matches her flamboyant nature."
+        },
+        {
+            "name": "D9-TA",
+            "description": "An advanced protocol droid with a sharp tongue and a mysterious past. Its programming has been altered, allowing it more freedom of expression.",
+            "personality": "Sarcastic, knowledgeable, and surprisingly empathetic for a droid. It often provides comic relief but can be fiercely protective.",
+            "aesthetic": "Sleek chrome plating with subtle blue lighting accents. Its appearance is well-maintained but shows signs of improvised modifications."
+        },
+        {
+            "name": "Kor Vant",
+            "description": "A defected Imperial officer who has turned to smuggling to undermine the Empire's efforts.",
+            "personality": "Strategic, disciplined, and morally conflicted. He grapples with his past decisions but is committed to making amends.",
+            "aesthetic": "Wears a modified version of his old uniform, stripped of Imperial insignias, combined with a smuggler's practicality."
+        },
+        {
+            "name": "Zara Kiral",
+            "description": "A young, idealistic member of an underground resistance movement, fighting to restore freedom to the galaxy.",
+            "personality": "Passionate, optimistic, and a natural leader. Her inexperience is balanced by her strong conviction and ability to inspire others.",
+            "aesthetic": "Her attire is a mix of rugged resistance gear and her own personal style, including a brightly colored scarf as a symbol of hope."
+        },
+        {
+            "name": "Xan Qen",
+            "description": "A reclusive alien sage with deep knowledge of the Force and ancient lore, guiding the protagonist on their journey.",
+            "personality": "Wise, enigmatic, and patient. Speaks in riddles but possesses a profound understanding of the balance of the Force.",
+            "aesthetic": "Robes of a forgotten order, adorned with cryptic symbols and carrying a staff imbued with the energy of the Force."
+        },
+        {
+            "name": "Commander Vex",
+            "description": "A ruthless Imperial commander determined to crush the burgeoning resistance and capture the protagonist.",
+            "personality": "Cold, calculating, and utterly devoted to the Empire. His ambition is matched only by his disdain for failure.",
+            "aesthetic": "Imposing in his crisp, high-ranking Imperial uniform, complete with medals and a cape that signifies his authority."
+        }
+    ]
+}

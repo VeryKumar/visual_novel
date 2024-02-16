@@ -1,0 +1,433 @@
+{
+    "title": "Full Metal Alchemist: The Final Brotherhood",
+    "description": "In a world where alchemy is the essence of power and conflict, a group known as the Final Brotherhood emerges to challenge the shadows that threaten the balance. Among them, a mysterious figure, Eldric Steelheart, stands as a beacon of hope and power, his abilities rooted in a past intertwined with the legendary Elric brothers. With the fate of the world hanging in the balance, the Brotherhood must navigate a maze of intrigue, betrayal, and ancient secrets to prevent a cataclysmic future.",
+    "arcs": [
+        {
+            "arcId": "arc1",
+            "title": "The Awakening of Eldric",
+            "description": "This arc unfolds the mysterious past of Eldric Steelheart, the Lost Alchemist, and his crucial role in the balance of alchemical power. The Brotherhood must guide him to reclaim his memories and harness his unrivaled abilities to stand against the lurking threats.",
+            "quests": [
+                {
+                    "questId": "quest1_arc1",
+                    "title": "The Cryptic Emergence",
+                    "acts": [
+                        {
+                            "actId": "act1_quest1_arc1",
+                            "title": "Scout the Ancient Crypt",
+                            "objectives": [
+                                "Use a map to locate the exact position of the ancient crypt",
+                                "Study old texts to understand the mechanism that seals the crypt",
+                                "Perform a ritual to awaken Eldric without causing harm"
+                            ]
+                        },
+                        {
+                            "actId": "act2_quest1_arc1",
+                            "title": "Crypt's Defense",
+                            "objectives": [
+                                "Engage and repel any creatures or factions that approach the crypt",
+                                "Set traps around the perimeter for additional security",
+                                "Establish a lookout system to monitor for unexpected threats",
+                                "Create a fallback plan in case of overwhelming assault"
+                            ]
+                        },
+                        {
+                            "actId": "act3_quest1_arc1",
+                            "title": "Eldric's Rise",
+                            "objectives": [
+                                "Ensure Eldric's orientation to the present",
+                                "Introduce Eldric to the Brotherhood",
+                                "Begin initial assessment of Eldric's alchemical abilities",
+                                "Defend Eldric from immediate assassination attempts",
+                                "Plan Eldric's public presentation to the world"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "questId": "quest2_arc1",
+                    "title": "The Memory Alchemy",
+                    "acts": [
+                        {
+                            "actId": "act1_quest2_arc1",
+                            "title": "Library of Secrets",
+                            "objectives": [
+                                "Visit the grand library and find the section on memory alchemy",
+                                "Travel to remote areas to collect the rarest ingredients",
+                                "Mix the ingredients and conduct the ritual alongside Eldric",
+                                "Create a talisman to anchor Eldric's memories securely"
+                            ]
+                        },
+                        {
+                            "actId": "act2_quest2_arc1",
+                            "title": "Restoring the Past",
+                            "objectives": [
+                                "Assist Eldric in interpreting restored memories",
+                                "Identify any potential threats from Eldric's past",
+                                "Establish a safe house as memories resurface",
+                                "Document the process for future reference"
+                            ]
+                        },
+                        {
+                            "actId": "act3_quest2_arc1",
+                            "title": "Memory's Protection",
+                            "objectives": [
+                                "Train Eldric in defensive alchemy to protect his mind",
+                                "Investigate any anomalies in Eldric's memory restoration",
+                                "Reinforce the talisman's power with additional enchantments",
+                                "Prepare contingency plans in case of memory rebound or loss"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "questId": "quest3_arc1",
+                    "title": "Shadows and Secrets",
+                    "acts": [
+                        {
+                            "actId": "act1_quest3_arc1",
+                            "title": "Assassin's Gambit",
+                            "objectives": [
+                                "Set traps or lay in wait to counter the assassins' attack",
+                                "Visit taverns or markets to overhear gossip about the organization",
+                                "Steal or intercept letters and decode them for information",
+                                "Confront a member of the organization to uncover their plans"
+                            ]
+                        },
+                        {
+                            "actId": "act2_quest3_arc1",
+                            "title": "Unraveling the Web",
+                            "objectives": [
+                                "Analyze the information from intercepted communications",
+                                "Pinpoint the location of the organization's next move",
+                                "Gather allies for an impending confrontation",
+                                "Secure Brotherhood safe houses against infiltration"
+                            ]
+                        },
+                        {
+                            "actId": "act3_quest3_arc1",
+                            "title": "Exposing the Shadow",
+                            "objectives": [
+                                "Launch a surprise counterattack on the organization's base",
+                                "Capture key members for interrogation",
+                                "Uncover the full extent of the organization's network",
+                                "Safeguard recovered information for strategic planning"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "questId": "quest4_arc1",
+                    "title": "Blood of the Elric",
+                    "acts": [
+                        {
+                            "actId": "act1_quest4_arc1",
+                            "title": "Genealogical Mysteries",
+                            "objectives": [
+                                "Search the archives for genealogical records of the Elric family",
+                                "Conduct blood tests and compare them with known alchemical substances",
+                                "Find an ancient artifact or document that reveals the bloodline's importance",
+                                "Erase or secure any evidence that could be used maliciously"
+                            ]
+                        },
+                        {
+                            "actId": "act2_quest4_arc1",
+                            "title": "Ancestral Bonds",
+                            "objectives": [
+                                "Explore ruins associated with the Elric family lineage",
+                                "Develop a protective enchantment to shield Eldric's unique bloodline",
+                                "Investigate rumors of others with ties to the Elric heritage",
+                                "Convene a secret meeting with surviving Elric descendants"
+                            ]
+                        },
+                        {
+                            "actId": "act3_quest4_arc1",
+                            "title": "Legacy's Defense",
+                            "objectives": [
+                                "Prepare Eldric for potential exploitation of his bloodline",
+                                "Form alliances with those who honor the Elric legacy",
+                                "Dismantle any attempts to misuse the Elric bloodline power",
+                                "Initiate a ritual to seal the bloodline's power from malevolent use"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "questId": "quest5_arc1",
+                    "title": "Power Unleashed",
+                    "acts": [
+                        {
+                            "actId": "act1_quest5_arc1",
+                            "title": "Alchemy 101",
+                            "objectives": [
+                                "Teach Eldric basic alchemical reactions and their uses",
+                                "Set up controlled environments to test Eldric's power",
+                                "Analyze the organization's past actions to anticipate future ones",
+                                "Equip Eldric with tools and knowledge for the upcoming battle"
+                            ]
+                        },
+                        {
+                            "actId": "act2_quest5_arc1",
+                            "title": "Mastering the Craft",
+                            "objectives": [
+                                "Introduce Eldric to advanced alchemical theories",
+                                "Facilitate Eldric's practice with complex alchemical constructs",
+                                "Study historical battles for tactical advantage",
+                                "Assess Eldric's mastery through simulated combat scenarios"
+                            ]
+                        },
+                        {
+                            "actId": "act3_quest5_arc1",
+                            "title": "The Final Preparation",
+                            "objectives": [
+                                "Review the Brotherhood's overall strategies and adjust as needed",
+                                "Conduct a final assessment of Eldric's combat readiness",
+                                "Ensure all members are equipped with necessary alchemical supplies",
+                                "Hold a war council to finalize the plan against the organization"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arcId": "arc2",
+            "title": "The Shadow Network",
+            "description": "The Brotherhood faces the intricate and dangerous web of the Shadow Network, a covert organization with far-reaching influence. Navigating through treachery and deception, the Brotherhood must dismantle the network and prevent its sinister plans from coming to fruition.",
+            "quests": [
+                {
+                    "questId": "quest1_arc2",
+                    "title": "The Infiltration Initiation",
+                    "acts": [
+                        {
+                            "actId": "act1_quest1_arc2",
+                            "title": "Identity Deception",
+                            "objectives": [
+                                "Forge documents and disguise kits for new identities",
+                                "Attend a meeting or event held by the shadow network",
+                                "Recruit a member of the shadow network to act as an informant",
+                                "Copy or steal documents without raising suspicion"
+                            ]
+                        },
+                        {
+                            "actId": "act2_quest1_arc2",
+                            "title": "Securing Intel",
+                            "objectives": [
+                                "Establish secure lines of communication with the Brotherhood",
+                                "Implement counter-surveillance measures",
+                                "Analyze stolen documents for actionable intelligence",
+                                "Prepare for extraction in case of compromised identity"
+                            ]
+                        },
+                        {
+                            "actId": "act3_quest1_arc2",
+                            "title": "Deep Cover",
+                            "objectives": [
+                                "Gain the trust of higher-ranking network members",
+                                "Uncover and map out the network's supply lines",
+                                "Identify potential allies within the network",
+                                "Document the network's activities discreetly"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "questId": "quest2_arc2",
+                    "title": "Web of Deceit",
+                    "acts": [
+                        {
+                            "actId": "act1_quest2_arc2",
+                            "title": "In the Shadows",
+                            "objectives": [
+                                "Follow or spy on a suspected high-ranking network member",
+                                "Crack the code used in the network's messages",
+                                "Convince an informant to grant access to restricted areas",
+                                "Create a detailed chart of the hierarchy and roles within the organization"
+                            ]
+                        },
+                        {
+                            "actId": "act2_quest2_arc2",
+                            "title": "Gathering Threads",
+                            "objectives": [
+                                "Collect evidence linking the network to corrupt officials",
+                                "Secure a location for Brotherhood members to analyze data",
+                                "Initiate a misinformation campaign to sow distrust within the network",
+                                "Review and update the chart with new intelligence"
+                            ]
+                        },
+                        {
+                            "actId": "act3_quest2_arc2",
+                            "title": "Cutting the Strings",
+                            "objectives": [
+                                "Plan a series of raids on network facilities",
+                                "Capture network couriers to intercept vital messages",
+                                "Protect informants from retribution",
+                                "Prepare to expose the network to the public"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "questId": "quest3_arc2",
+                    "title": "Alchemical Espionage",
+                    "acts": [
+                        {
+                            "actId": "act1_quest3_arc2",
+                            "title": "Gadgets and Guile",
+                            "objectives": [
+                                "Invent a listening device or a potion that turns one invisible",
+                                "Plant explosives or poisons to disrupt network activities",
+                                "Blend in during missions to avoid drawing attention",
+                                "Retrieve a document or overhear a conversation detailing the larger plot"
+                            ]
+                        },
+                        {
+                            "actId": "act2_quest3_arc2",
+                            "title": "Covert Operations",
+                            "objectives": [
+                                "Train a team in the use of newly invented espionage tools",
+                                "Execute a high-stakes mission to gather crucial information",
+                                "Analyze the newly acquired data for weaknesses in the network",
+                                "Formulate a plan to exploit the network's vulnerabilities"
+                            ]
+                        },
+                        {
+                            "actId": "act3_quest3_arc2",
+                            "title": "The Spy's Gamble",
+                            "objectives": [
+                                "Plant a false lead to misdirect the network's resources",
+                                "Coordinate with Brotherhood agents to act on gathered intel",
+                                "Navigate a high-security area to extract a key network asset",
+                                "Recover from any setbacks without compromising the mission"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "questId": "quest4_arc2",
+                    "title": "The Conspiracy Unveiled",
+                    "acts": [
+                        {
+                            "actId": "act1_quest4_arc2",
+                            "title": "Piecing It Together",
+                            "objectives": [
+                                "Combine clues and evidence to form a complete picture of the plot",
+                                "Publicly disclose the network's intentions in a way that can't be ignored",
+                                "Gather allies and resources to oppose the network's plans",
+                                "Train and prepare for a likely retaliation from the network"
+                            ]
+                        },
+                        {
+                            "actId": "act2_quest4_arc2",
+                            "title": "The People's Shield",
+                            "objectives": [
+                                "Strengthen defenses in vulnerable locations",
+                                "Educate the public on the network's threat",
+                                "Recruit volunteers for a civilian watch program",
+                                "Stockpile healing and protective alchemical items"
+                            ]
+                        },
+                        {
+                            "actId": "act3_quest4_arc2",
+                            "title": "Countdown to Confrontation",
+                            "objectives": [
+                                "Finalize plans for an all-out offensive on the network",
+                                "Psychologically prepare for the potential costs of conflict",
+                                "Secure and protect intelligence sources",
+                                "Mobilize forces for the upcoming battle"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "questId": "quest5_arc2",
+                    "title": "The Network's Fall",
+                    "acts": [
+                        {
+                            "actId": "act1_quest5_arc2",
+                            "title": "The Synchronized Strike",
+                            "objectives": [
+                                "Send messages to allies to coordinate a simultaneous attack",
+                                "Infiltrate and disable key points of the network's infrastructure",
+                                "Capture the network's leaders in a surprise raid",
+                                "Collect and secure documents and evidence for legal proceedings"
+                            ]
+                        },
+                        {
+                            "actId": "act2_quest5_arc2",
+                            "title": "Aftermath and Evidence",
+                            "objectives": [
+                                "Assist in the interrogation of captured network leaders",
+                                "Organize the sorting and cataloging of evidence",
+                                "Provide support to communities affected by the network's downfall",
+                                "Plan public trials to maintain transparency and justice"
+                            ]
+                        },
+                        {
+                            "actId": "act3_quest5_arc2",
+                            "title": "A New Order",
+                            "objectives": [
+                                "Participate in rebuilding efforts in the wake of the network's destruction",
+                                "Establish new security protocols to prevent future shadow networks",
+                                "Celebrate the victory with those who stood against the network",
+                                "Honor the fallen and commit to a vigilant future"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "cast": [
+        {
+            "characterId": "char1",
+            "name": "Eldric Steelheart",
+            "role": "The Lost Alchemist",
+            "description": "Eldric is a character with a mysterious past who emerges as a key figure in the final struggle. His alchemy surpasses conventional understanding, allowing him to manipulate metals in unprecedented ways. He is rumored to be connected to the Elric brothers."
+        },
+        {
+            "characterId": "char2",
+            "name": "Aria Nox",
+            "role": "The Shadow Binder",
+            "description": "Aria is a skilled alchemist who specializes in the manipulation of shadows. She acts as a covert operative for the final brotherhood, gathering intelligence and dispatching enemies from the darkness."
+        },
+        {
+            "characterId": "char3",
+            "name": "Galen Rook",
+            "role": "The Iron Sentinel",
+            "description": "A former military man turned alchemist, Galen is known for his ability to forge and animate iron golems. He provides the final brotherhood with both defensive and offensive support."
+        },
+        {
+            "characterId": "char4",
+            "name": "Iris Flamel",
+            "role": "The Healer's Touch",
+            "description": "Iris is a gentle soul with a profound mastery of alchemical healing. Her abilities are crucial to the survival of the final brotherhood, as she can mend both physical and spiritual wounds."
+        },
+        {
+            "characterId": "char5",
+            "name": "Vance Ignis",
+            "role": "The Flame Warden",
+            "description": "Vance is a fiery alchemist with the power to control and create fire. His volatile nature makes him a formidable combatant, and his passion fuels the final brotherhood's fight for justice."
+        }
+    ],
+    "currentState": {
+        "currentArcId": "arc1",
+        "currentQuestId": "quest1_arc1",
+        "currentActId": "act1_quest1_arc1",
+        "goalStatuses": {
+            "arc1": {
+                "quest1": "active",
+                "quest2": "locked",
+                "quest3": "locked",
+                "quest4": "locked",
+                "quest5": "locked"
+            },
+            "arc2": {
+                "quest1": "locked",
+                "quest2": "locked",
+                "quest3": "locked",
+                "quest4": "locked",
+                "quest5": "locked"
+            }
+        }
+    }
+}

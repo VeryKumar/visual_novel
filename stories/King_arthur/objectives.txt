@@ -1,0 +1,163 @@
+{
+  "objectives": [
+    {
+      "questTitle": "Proving the Birthright",
+      "objectives": [
+        {"objective": "Gather the citizens of Camelot to the grand assembly."},
+        {"objective": "Approach the sword in the stone as Arthur."},
+        {"objective": "Attempt to pull Excalibur from the stone."},
+        {"objective": "Successfully retrieve Excalibur to demonstrate Arthur's claim to the throne."}
+      ]
+    },
+    {
+      "questTitle": "The Formation of the Round Table",
+      "objectives": [
+        {"objective": "Collect materials for the construction of the Round Table."},
+        {"objective": "Commission a carpenter to design and build the Round Table."},
+        {"objective": "Send out invitations to noble knights across the land."},
+        {"objective": "Hold a ceremony where knights take the Oath of Chivalry around the Round Table."}
+      ]
+    },
+    {
+      "questTitle": "Merlin's Formative Guidance",
+      "objectives": [
+        {"objective": "Locate Merlin's dwelling and request his mentorship."},
+        {"objective": "Accompany Merlin to the enchanted forest for training."},
+        {"objective": "Complete a series of wisdom-based challenges set by Merlin."},
+        {"objective": "Apply the learned wisdom to a decision affecting the kingdom."}
+      ]
+    },
+    {
+      "questTitle": "The Knight's Prowess",
+      "objectives": [
+        {"objective": "Enter Lancelot into a tournament to demonstrate his skill."},
+        {"objective": "Win a series of jousting matches against other knights."},
+        {"objective": "Defeat a legendary beast to prove Lancelot's valor."},
+        {"objective": "Receive the title of Champion from King Arthur."}
+      ]
+    },
+    {
+      "questTitle": "Forbidden Love's Bloom",
+      "objectives": [
+        {"objective": "Arrange a secret meeting between Lancelot and Guinevere."},
+        {"objective": "Steal a love token from the royal quarters as a sign of affection."},
+        {"objective": "Avoid detection while meeting in secret locations."},
+        {"objective": "Manage stress levels to prevent rumors from spreading."}
+      ]
+    },
+    {
+      "questTitle": "The Test of Loyalty",
+      "objectives": [
+        {"objective": "Choose between a mission for Arthur and a rendezvous with Guinevere."},
+        {"objective": "Complete a quest that conflicts with Lancelot's personal desires."},
+        {"objective": "Confront the emotional turmoil of divided loyalties."},
+        {"objective": "Make a decision that will impact Lancelot's standing in Camelot."}
+      ]
+    },
+    {
+      "questTitle": "Uncovering the Conspiracy",
+      "objectives": [
+        {"objective": "Eavesdrop on conversations to gather rumors about Morgana."},
+        {"objective": "Recruit spies to infiltrate Morgana's followers."},
+        {"objective": "Uncover evidence of the betrayal."},
+        {"objective": "Present the evidence to King Arthur and counsel on how to proceed."}
+      ]
+    },
+    {
+      "questTitle": "The Battle of Enchantments",
+      "objectives": [
+        {"objective": "Gather intelligence on the enchanted beasts' sightings."},
+        {"objective": "Lead a party to confront an enchanted creature."},
+        {"objective": "Devise and employ a magical countermeasure against dark enchantments."},
+        {"objective": "Defeat the leader of the enchanted adversaries."}
+      ]
+    },
+    {
+      "questTitle": "Guardians Against the Supernatural",
+      "objectives": [
+        {"objective": "Muster a team of knights specialized in combating supernatural threats."},
+        {"objective": "Travel to the source of the supernatural disturbances."},
+        {"objective": "Engage and repel a supernatural incursion."},
+        {"objective": "Return to Camelot with proof of the supernatural threat's defeat."}
+      ]
+    },
+    {
+      "questTitle": "The Call to Adventure",
+      "objectives": [
+        {"objective": "Witness the divine vision of the Holy Grail."},
+        {"objective": "Pledge to participate in the Grail Quest."},
+        {"objective": "Prepare supplies and equipment for the Grail Quest."},
+        {"objective": "Leave Camelot in search of the Holy Grail."}
+      ]
+    },
+    {
+      "questTitle": "Trials of Virtue",
+      "objectives": [
+        {"objective": "Resist a personal temptation tailored to the character's weaknesses."},
+        {"objective": "Complete a task that embodies one of the knightly virtues."},
+        {"objective": "Provide aid to those in need as a demonstration of knightly compassion."},
+        {"objective": "Receive a token representing proof of virtue from a grateful beneficiary."}
+      ]
+    },
+    {
+      "questTitle": "The Grail's Influence",
+      "objectives": [
+        {"objective": "Undergo a transformation through a spiritual or magical experience."},
+        {"objective": "Navigate the changed political landscape of Camelot."},
+        {"objective": "Record the personal changes and realizations brought by the Grail's influence."}
+      ]
+    },
+    {
+      "questTitle": "The Unveiling of Truth",
+      "objectives": [
+        {"objective": "Discover evidence of Guinevere and Lancelot's affair."},
+        {"objective": "Decide how to respond to the revelation of the affair."},
+        {"objective": "Begin a quest for redemption for both Guinevere and Lancelot."},
+        {"objective": "Complete a task that will publicly restore their honor."}
+      ]
+    },
+    {
+      "questTitle": "Morgana's Final Gambit",
+      "objectives": [
+        {"objective": "Intercept a message detailing Morgana's plans."},
+        {"objective": "Rally the knights of Camelot to defend against the insurrection."},
+        {"objective": "Lead the charge against Morgana's forces."},
+        {"objective": "Defeat Morgana in a decisive battle."}
+      ]
+    },
+    {
+      "questTitle": "Camelot's Last Defense",
+      "objectives": [
+        {"objective": "Organize the defenses of Camelot against the siege."},
+        {"objective": "Protect vital resources and locations within the castle during the siege."},
+        {"objective": "Engage in a duel with the leader of the besieging forces."},
+        {"objective": "Ensure the survival of King Arthur and key members of the court."}
+      ]
+    },
+    {
+      "questTitle": "Excalibur's Destiny",
+      "objectives": [
+        {"objective": "Select a knight to return Excalibur to the Lady of the Lake."},
+        {"objective": "Escort the chosen knight to the mystical lake."},
+        {"objective": "Return Excalibur to the Lady of the Lake."}
+      ]
+    },
+    {
+      "questTitle": "Closing the Circle",
+      "objectives": [
+        {"objective": "Prepare for Arthur's funeral rites."},
+        {"objective": "Identify a successor to the throne of Camelot."},
+        {"objective": "Facilitate the transition of power and maintain order in the kingdom."}
+      ]
+    },
+    {
+      "questTitle": "Merlin's Prophecy",
+      "objectives": [
+        {"objective": "Attend Merlin's final prophecy session."},
+        {"objective": "Gather materials to document Merlin's prophecies."},
+        {"objective": "Create a secure archive for Merlin's teachings and predictions."},
+        {"objective": "Disseminate the prophecy of Arthur's return among the people."}
+      ]
+    }
+  ]
+}

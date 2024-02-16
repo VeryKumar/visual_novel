@@ -1,0 +1,136 @@
+{
+  "acts": [
+    {
+      "arc": "The Descent into the Abyss",
+      "acts": [
+        {
+          "title": "Navigating Hazards",
+          "description": "Lead the troupe through treacherous terrain to secure a campsite."
+        },
+        {
+          "title": "Unearthly Research",
+          "description": "Collect and analyze samples of the mysterious phenomena."
+        },
+        {
+          "title": "Innovative Direction",
+          "description": "Implement new methods to maintain the troupe's direction."
+        },
+        {
+          "title": "Risky Discovery",
+          "description": "Execute a daring plan to find a new path within the canyon."
+        },
+        {
+          "title": "Emergency Aid",
+          "description": "Establish a field station for treating injuries."
+        },
+        {
+          "title": "Personal Triumph",
+          "description": "Face and conquer a significant personal obstacle."
+        },
+        {
+          "title": "Deciphering History",
+          "description": "Interpret ancient inscriptions to guide the group."
+        }
+      ]
+    },
+    {
+      "arc": "The Lurking Shadows",
+      "acts": [
+        {
+          "title": "Defensive Strategies",
+          "description": "Create safeguards against the unseen dangers."
+        },
+        {
+          "title": "Shadowy Experiments",
+          "description": "Conduct tests to understand the mysterious shadows."
+        },
+        {
+          "title": "Illuminating Path",
+          "description": "Discover a light source to navigate the darkness safely."
+        },
+        {
+          "title": "Facing the Past",
+          "description": "Confront a shadow from a familiar past and learn its truths."
+        },
+        {
+          "title": "Mystical Healing",
+          "description": "Cure a unique affliction caused by the shadows."
+        },
+        {
+          "title": "Crucial Decision",
+          "description": "Choose a path that will shape the future of the troupe."
+        },
+        {
+          "title": "Shadows Unveiled",
+          "description": "Decipher the meaning behind the enigmatic shadows."
+        }
+      ]
+    },
+    {
+      "arc": "The Invisible Cliff",
+      "acts": [
+        {
+          "title": "The Ascent Challenge",
+          "description": "Organize a group effort to climb the mysterious cliff."
+        },
+        {
+          "title": "Principles of Anomaly",
+          "description": "Apply science to understand and overcome the cliff's oddities."
+        },
+        {
+          "title": "Guide to the Invisible",
+          "description": "Create a tool to help visualize and navigate the cliff."
+        },
+        {
+          "title": "Overcoming Barriers",
+          "description": "Invent a way to bypass unseen obstacles during the climb."
+        },
+        {
+          "title": "Survival Under Duress",
+          "description": "Sustain the group's wellbeing in harsh climbing conditions."
+        },
+        {
+          "title": "Summit Leadership",
+          "description": "Lead a critical part of the ascent, demonstrating capability."
+        },
+        {
+          "title": "Ancient Truths",
+          "description": "Reveal secrets of a lost civilization related to the cliff."
+        }
+      ]
+    },
+    {
+      "arc": "The Revelation",
+      "acts": [
+        {
+          "title": "Journey's Impact",
+          "description": "Contemplate the effects of the expedition's choices."
+        },
+        {
+          "title": "New Understanding",
+          "description": "Adapt to revelations that change the mission's foundation."
+        },
+        {
+          "title": "Ultimate Discovery",
+          "description": "Disclose the true purpose of the troupe's quest."
+        },
+        {
+          "title": "Sacrificial Choice",
+          "description": "Weigh personal survival against the greater good."
+        },
+        {
+          "title": "Comfort Amidst Truth",
+          "description": "Support the team emotionally as they face their findings."
+        },
+        {
+          "title": "Dedication to the Cause",
+          "description": "Commit wholeheartedly to the troupe's new mission."
+        },
+        {
+          "title": "Revealing the Past",
+          "description": "Share the secrets of Helen's connection to the cliff's legend."
+        }
+      ]
+    }
+  ]
+}

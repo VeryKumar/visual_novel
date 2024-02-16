@@ -1,0 +1,138 @@
+{
+  "title": "Star Wars: Echoes of the Unknown - Quest Checkpoints",
+  "quests": [
+    {
+      "arc_name": "The Awakening",
+      "checkpoints": [
+        {
+          "quest_title": "The Triggering Artifact",
+          "description": "Tal Riven must uncover the ancient artifact that awakens his Force abilities."
+        },
+        {
+          "quest_title": "The Call to Adventure",
+          "description": "Tal must escape Imperial forces and join the resistance with the help of Captain Lyra Vox."
+        },
+        {
+          "quest_title": "The Protector's Oath",
+          "description": "Captain Lyra Vox must decide to protect Tal against her better judgment as a mercenary."
+        },
+        {
+          "quest_title": "The Droid's Secret",
+          "description": "D9-TA must decrypt the artifact's data, revealing its origins and importance."
+        },
+        {
+          "quest_title": "The Hidden Mentor",
+          "description": "Tal and his allies must locate and convince Xan Qen to mentor Tal in the ways of the Force."
+        },
+        {
+          "quest_title": "The Empire's Obsession",
+          "description": "Survive an encounter with Commander Vex, who becomes fixated on capturing Tal."
+        }
+      ]
+    },
+    {
+      "arc_name": "The Mercenary's Heart",
+      "checkpoints": [
+        {
+          "quest_title": "The Tempting Offer",
+          "description": "Lyra Vox is presented with a high-paying contract that would betray the resistance."
+        },
+        {
+          "quest_title": "The Moral Compass",
+          "description": "D9-TA must subtly influence Lyra to consider the ethical implications of her choice."
+        },
+        {
+          "quest_title": "The Resistance's Pitch",
+          "description": "Kor Vant must persuade Lyra to see the value in joining the resistance's cause."
+        },
+        {
+          "quest_title": "The Wisdom of Neutrality",
+          "description": "Xan Qen shares insights with Lyra, helping her to see beyond monetary gain."
+        },
+        {
+          "quest_title": "The Crossroads Decision",
+          "description": "Lyra must make her final decision, with the future of her crew and her own conscience at stake."
+        }
+      ]
+    },
+    {
+      "arc_name": "The Lost Officer",
+      "checkpoints": [
+        {
+          "quest_title": "The Ghosts of the Past",
+          "description": "Kor Vant's former Imperial comrades find him, forcing a confrontation."
+        },
+        {
+          "quest_title": "The Test of Loyalty",
+          "description": "Kor must undertake a dangerous mission to prove his allegiance to the resistance."
+        },
+        {
+          "quest_title": "The Network's Role",
+          "description": "D9-TA must tap into its intelligence networks to aid Kor in his quest for redemption."
+        },
+        {
+          "quest_title": "The Spiritual Guidance",
+          "description": "Xan Qen counsels Kor on the importance of confronting his past for true redemption."
+        },
+        {
+          "quest_title": "The Empire's Trap",
+          "description": "Kor and his allies must outwit Commander Vex, who seeks to exploit Kor's guilt."
+        }
+      ]
+    },
+    {
+      "arc_name": "The Beacon of Hope",
+      "checkpoints": [
+        {
+          "quest_title": "The Sparks of Rebellion",
+          "description": "Zara Kiral must plan and initiate covert operations to kickstart the uprising."
+        },
+        {
+          "quest_title": "The Symbol of Resistance",
+          "description": "Tal Riven must become the face of the movement, using his abilities to inspire hope."
+        },
+        {
+          "quest_title": "The Firepower Support",
+          "description": "Captain Lyra Vox must secure and deploy her ship's resources for the resistance's cause."
+        },
+        {
+          "quest_title": "The Strategic Insight",
+          "description": "Kor Vant shares his knowledge of Imperial strategies to outmaneuver the enemy."
+        },
+        {
+          "quest_title": "The Commander's Counter",
+          "description": "Prepare for and counter Commander Vex's attempts to crush the uprising."
+        }
+      ]
+    },
+    {
+      "arc_name": "The Final Confrontation",
+      "checkpoints": [
+        {
+          "quest_title": "The Gathering Storm",
+          "description": "Unite all resistance forces and allies for a final stand against the Empire."
+        },
+        {
+          "quest_title": "The Sabotage Mission",
+          "description": "D9-TA must infiltrate and sabotage the Imperial flagship to weaken their forces."
+        },
+        {
+          "quest_title": "The Heroic Assault",
+          "description": "Captain Lyra Vox leads an all-out attack on the Imperial fleet to support ground operations."
+        },
+        {
+          "quest_title": "The Duel of Fates",
+          "description": "Tal Riven faces Commander Vex in a climactic duel, determining the future of the galaxy."
+        },
+        {
+          "quest_title": "The Force's Guidance",
+          "description": "Xan Qen aids the protagonists with the Force, tipping the balance in their favor."
+        },
+        {
+          "quest_title": "The Fall of the Empire",
+          "description": "Ensure the success of the resistance's final push to bring down the Empire's tyranny."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "act_lists": [
+    {
+      "arc_title": "The Crestwell Conundrum",
+      "acts": [
+        {
+          "title": "Act 1: Shareholder Stratagem",
+          "description": "Victoria begins to outline a plan that balances environmental concerns with business interests, consulting experts and drafting initial proposals."
+        },
+        {
+          "title": "Act 2: The Protest Prep",
+          "description": "Elias rallies supporters, creates protest materials, and coordinates with the media to ensure the event's impact."
+        },
+        {
+          "title": "Act 3: The Family Forum",
+          "description": "A scene where Victoria and Elias sit down to discuss their visions for the company, attempting to reconcile their differing perspectives."
+        }
+      ]
+    },
+    {
+      "arc_title": "The Innovation Initiative",
+      "acts": [
+        {
+          "title": "Act 1: Crafting the Concept",
+          "description": "Lena refines her prototype, running tests and simulations to ensure its viability before the pitch."
+        },
+        {
+          "title": "Act 2: Building Bridges",
+          "description": "Elias and Lena network within the company, having one-on-one conversations to drum up interest and counter objections."
+        },
+        {
+          "title": "Act 3: The Negotiation",
+          "description": "Graham engages with decision-makers, using his influence and strategic arguments to secure initial funding."
+        }
+      ]
+    },
+    {
+      "arc_title": "The Unlikely Alliance",
+      "acts": [
+        {
+          "title": "Act 1: Undercover Operations",
+          "description": "Miles discreetly contacts insiders and corroborates the evidence he has uncovered, ensuring everything is legally sound."
+        },
+        {
+          "title": "Act 2: Daring Disclosure",
+          "description": "Elias and Miles finalize the details of the leak, choosing the right time and platform for maximum exposure."
+        },
+        {
+          "title": "Act 3: The Public's Perspective",
+          "description": "Victoria gauges public reaction and consults with PR experts to form a response that will protect the company's image."
+        }
+      ]
+    },
+    {
+      "arc_title": "The Green Transition",
+      "acts": [
+        {
+          "title": "Act 1: Drafting the Declaration",
+          "description": "Victoria works with environmental consultants and PR teams to draft a statement that outlines the company's new green policy."
+        },
+        {
+          "title": "Act 2: Boardroom Battle",
+          "description": "Elias prepares his campaign for the board, strategizing on how to win over the shareholders and current board members."
+        },
+        {
+          "title": "Act 3: Launching the Large-Scale",
+          "description": "Lena coordinates with engineers and project managers to begin the practical application of her prototype across the company."
+        },
+        {
+          "title": "Act 4: Diplomatic Dealings",
+          "description": "Graham meets with international representatives, negotiating terms and building a coalition for the global initiative."
+        },
+        {
+          "title": "Act 5: Writing the Wave",
+          "description": "Miles crafts his articles, interviewing key players and analyzing the company's efforts to ensure transparent reporting."
+        }
+      ]
+    }
+  ]
+}

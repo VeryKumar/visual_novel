@@ -1,0 +1,91 @@
+{
+  "quests": [
+    {
+      "arcTitle": "The Quest for the Holy Grail",
+      "checkpoints": [
+        {
+          "title": "The Vision of the Grail",
+          "description": "Arthur receives a divine vision, prompting the quest for the Holy Grail."
+        },
+        {
+          "title": "The Trials of the Forest",
+          "description": "Each knight faces personal trials in the enchanted forest that test their virtues."
+        },
+        {
+          "title": "The Castle of the Fisher King",
+          "description": "The knights reach the Grail Castle and must solve its mysteries to obtain the Grail."
+        },
+        {
+          "title": "Lancelot's Temptation",
+          "description": "Lancelot is tempted by his desires, threatening his quest for the Grail."
+        },
+        {
+          "title": "Morgana's Gambit",
+          "description": "Morgana attempts to claim the Grail for herself, leading to a pivotal confrontation."
+        },
+        {
+          "title": "The Revelation of the Grail",
+          "description": "The true nature and purpose of the Holy Grail are revealed to the knights."
+        }
+      ]
+    },
+    {
+      "arcTitle": "The Siege of Camelot",
+      "checkpoints": [
+        {
+          "title": "The Betrayal",
+          "description": "Camelot is betrayed from within, setting the stage for the siege."
+        },
+        {
+          "title": "The Gathering of Allies",
+          "description": "Arthur and Guinevere seek allies to aid in the defense of Camelot."
+        },
+        {
+          "title": "Merlin's Barrier",
+          "description": "Merlin erects magical defenses to protect Camelot as the siege begins."
+        },
+        {
+          "title": "Lancelot's Charge",
+          "description": "Lancelot leads a daring sortie against the besiegers, turning the tide of battle."
+        },
+        {
+          "title": "Morgana's Choice",
+          "description": "Morgana faces a critical decision that could determine the fate of the siege."
+        },
+        {
+          "title": "The Final Assault",
+          "description": "The decisive battle that determines the future of Camelot."
+        }
+      ]
+    },
+    {
+      "arcTitle": "The Fall and Redemption of Camelot",
+      "checkpoints": [
+        {
+          "title": "The Unveiling of Secrets",
+          "description": "Dark secrets come to light, threatening the unity of the Round Table."
+        },
+        {
+          "title": "The Trial of Lancelot",
+          "description": "Lancelot is put on trial, and his fate affects the stability of the kingdom."
+        },
+        {
+          "title": "Merlin's Departure",
+          "description": "Merlin leaves Camelot, entrusting its future to Arthur and his knights."
+        },
+        {
+          "title": "The Battle of Camlann",
+          "description": "Arthur faces Mordred in a battle that will decide the fate of Camelot."
+        },
+        {
+          "title": "Morgana's Redemption",
+          "description": "Morgana must choose her path in the wake of Camelot's darkest hour."
+        },
+        {
+          "title": "The Legacy of Camelot",
+          "description": "The survivors reflect on the lessons learned and the legacy they will leave behind."
+        }
+      ]
+    }
+  ]
+}

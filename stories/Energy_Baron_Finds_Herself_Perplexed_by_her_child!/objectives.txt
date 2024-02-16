@@ -1,0 +1,136 @@
+{
+  "objectives_by_arc": [
+    {
+      "arc_title": "The Crestwell Conundrum",
+      "objectives": [
+        {
+          "title": "Act 1: Shareholder Stratagem",
+          "objectives": [
+            "Gather data on environmental impacts relevant to the business.",
+            "Arrange meetings with environmental experts for consultations.",
+            "Draft an initial proposal that integrates sustainability with profit goals."
+          ]
+        },
+        {
+          "title": "Act 2: The Protest Prep",
+          "objectives": [
+            "Design and produce protest banners and flyers.",
+            "Compile a list of media contacts for event coverage.",
+            "Organize a meeting place and time and communicate it to supporters."
+          ]
+        },
+        {
+          "title": "Act 3: The Family Forum",
+          "objectives": [
+            "Prepare talking points that highlight the importance of sustainable business practices.",
+            "Schedule a sit-down meeting between Victoria and Elias.",
+            "Mediate the discussion to ensure both parties are heard and common ground is established."
+          ]
+        }
+      ]
+    },
+    {
+      "arc_title": "The Innovation Initiative",
+      "objectives": [
+        {
+          "title": "Act 1: Crafting the Concept",
+          "objectives": [
+            "Conduct a series of tests on the prototype to ensure functionality.",
+            "Analyze test results and make necessary adjustments to the design.",
+            "Create a compelling presentation to showcase the prototype's potential."
+          ]
+        },
+        {
+          "title": "Act 2: Building Bridges",
+          "objectives": [
+            "Identify key influencers within the company and arrange meetings.",
+            "Discuss the benefits of the prototype, addressing any concerns they may have.",
+            "Follow up with supportive stakeholders to secure their backing."
+          ]
+        },
+        {
+          "title": "Act 3: The Negotiation",
+          "objectives": [
+            "Prepare a detailed pitch that includes market analysis and projected returns.",
+            "Negotiate terms of funding with decision-makers, aiming for a win-win agreement.",
+            "Secure a signed commitment for the initial round of funding."
+          ]
+        }
+      ]
+    },
+    {
+      "arc_title": "The Unlikely Alliance",
+      "objectives": [
+        {
+          "title": "Act 1: Undercover Operations",
+          "objectives": [
+            "Identify and discreetly contact potential whistleblowers within the company.",
+            "Verify the information provided by insiders with documentation or records.",
+            "Ensure all evidence is legally obtained and can be used in disclosures."
+          ]
+        },
+        {
+          "title": "Act 2: Daring Disclosure",
+          "objectives": [
+            "Determine the optimal time for releasing the information to the public.",
+            "Choose a media platform that aligns with the intended audience and impact.",
+            "Coordinate with Elias to execute the leak smoothly and efficiently."
+          ]
+        },
+        {
+          "title": "Act 3: The Public's Perspective",
+          "objectives": [
+            "Monitor various media channels for public reaction to the disclosure.",
+            "Consult with PR experts to develop a strategy for damage control.",
+            "Implement the response plan through press releases and public statements."
+          ]
+        }
+      ]
+    },
+    {
+      "arc_title": "The Green Transition",
+      "objectives": [
+        {
+          "title": "Act 1: Drafting the Declaration",
+          "objectives": [
+            "Collaborate with environmental consultants to draft a green policy statement.",
+            "Work with the PR team to ensure the statement communicates effectively with the public.",
+            "Revise and finalize the declaration for public release."
+          ]
+        },
+        {
+          "title": "Act 2: Boardroom Battle",
+          "objectives": [
+            "Identify key concerns of shareholders and board members regarding the green transition.",
+            "Develop a persuasive argument that addresses the concerns and highlights the benefits.",
+            "Present the campaign to the board, seeking to gain their endorsement."
+          ]
+        },
+        {
+          "title": "Act 3: Launching the Large-Scale",
+          "objectives": [
+            "Coordinate with engineers to plan the implementation of Lena's prototype.",
+            "Oversee the project management process to ensure deadlines and budgets are met.",
+            "Begin the rollout of the prototype in a pilot program within the company."
+          ]
+        },
+        {
+          "title": "Act 4: Diplomatic Dealings",
+          "objectives": [
+            "Research and identify international partners interested in the green initiative.",
+            "Arrange meetings with international representatives to discuss collaboration.",
+            "Negotiate terms that benefit both the company and the international partners."
+          ]
+        },
+        {
+          "title": "Act 5: Writing the Wave",
+          "objectives": [
+            "Interview key players involved in the green transition for insights.",
+            "Analyze the effectiveness of the company's initiatives and report on findings.",
+            "Publish articles that offer a transparent view of the company's efforts and progress."
+          ]
+        }
+      ]
+    }
+  ]
+}
